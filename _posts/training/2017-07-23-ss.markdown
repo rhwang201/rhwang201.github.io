@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Training"
+date:   2014-07-23 23:38:07
+categories: training
+tags: squat bench powerclean
+---
+
+Squat:          175x5x3
+
+Bench:          135x5x3
+
+Power Clean:    115x3x5
+
+### Notes
+
+Need to sit back more and lean over on squat. Bench is annoying because rack
+height is a bit too high; also the sun can get in your eyes. Will probably need
+lift-offs eventually. Also bench was pretty uneven; left arm was often lagging.
+Might be a result of bad setup. Power clean was rushed. Remember to take your
+time setting up and to look up and further away.
