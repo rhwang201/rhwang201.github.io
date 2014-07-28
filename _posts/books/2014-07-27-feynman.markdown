@@ -4,7 +4,7 @@ title: "Lessons from Richard Feynman"
 category: books
 ---
 
-![Richard Feynman]({{site.url}}/assets/feynman.gif "Richard Feynman")
+![Richard Feynman]({{site.url}}/images/feynman.gif "Richard Feynman")
 
 Richard Feynman sure was an interesting character. Having just finished two of
 his books, _Surely You're Joking, Mr. Feynman_ and _What Do You Care What Other
