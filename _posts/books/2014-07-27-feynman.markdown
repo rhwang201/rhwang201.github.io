@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Lessons from Richard Feynman"
+category: books
+---
+
+![Richard Feynman]({{site.url}}/assets/feynman.gif "Richard Feynman")
+
+Richard Feynman sure was an interesting character. Having just finished two of
+his books, _Surely You're Joking, Mr. Feynman_ and _What Do You Care What Other
+People Think_, I can say that Feynman is definitely role model status for me,
+up there with Theodore Roosevelt and Elon Musk. Here are some lessons I learned
+from him.
+
+* __The world is amazing.__ If you accept that statement as a fact, you will
+  forever be curious. In order to function at all, we must dumb our perception
+  down and only operate on a human-scale level of things. But just consider how
+  crazy the mere thought of existing is. Thirteen point eight billion years
+  after a ridiculously huge explosion, a bunch of absolutely tiny particles
+  have coalesced somehow into a sentient being that can interact with a various
+  bunch of other absolutely tiny particles in ways to create and explore,
+  rejoice and suffer, a little mirror, randomly spawned for the universe to
+  look at itself. Feynman was always interested in the wonders of the world,
+  and he loved a damn good riddle. Look beyond your blinkers (I just had to
+  google that, they're those things that limit horses field of vision to
+  directly in front of them) and think of things differently than you usually
+  do. You find a helluva lotta wonderful curiosities.
+* __Fake it till you make it.__ Feynman was hilarious. Many of his best stories
+  consisted of him having no idea of what to do but _acting as if he did_, and
+  coming out of the situation all the better! In other words, if you're at
+  a loss for actions, think a bit and then just do something! You might be
+  pleasantly surprised.
+* __Always have fun.__ I watched a couple of Feynman videos on Youtube, and he
+  always seemed like a jolly guy. Reading the books reinforced that notion. He
+  just had fun doing everything! Playing in that Brazilian band, picking locks
+  and pranking friends, solving physics problems, solving biology problems,
+  talking to girls, visiting Japan, learning to draw; Feynman was always
+  enjoying himself. Guess there's no better way to go through life than to have
+  fun.
+* __There's so much out there; try new things.__ Goes along with the point
+  above. Feynman didn't limit himself to specializing in one topic. His
+  curiosity and fun-seeking nature led him to explore many different fields.
+* __When you learn something, actually understand it, god damn it.__ Kinda goes
+  along with a lesson learnt from being a teaching assistant: always, always
+  ask questions. Never be content with not understanding something. Challenge
+  your own knowledge. Be willing to admit you don't understand something. Be
+  willing to put in some damn mental effort to learn something worth it. Think
+  of the last time you did that. It was hard, but after you understood it,
+  I bet it was a good feeling. Make your knowledge deep.
+
+_Surely You're Joking, Mr. Feynman_ and _What Do You Care What Other People
+Think_ were two of my favorite books in a long, long time. I can't wait to
+re-read them and read more of his books!
