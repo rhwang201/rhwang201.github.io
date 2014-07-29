@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Training"
+date:   2014-07-25 23:38:07
+categories: training
+tags: squat press deadlift
+---
+
+Squat:          185x5x3
+
+Press:          105x5x3
+
+Deadlift:       205x5 
+
+### Notes
+
+First morning workout. Squat okay, sit back more. Stay tighter on press.
