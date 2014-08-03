@@ -50,7 +50,27 @@ list with key points/thoughts:
   and made their ways into the history books.
 
 * _Snow Crash_, Neal Stephenson
+
+  Very entertaining story! Having a programming background, I found the
+  tech-centered plot fun to read. I finally understand what cyber-punk means
+  after reading _Snow Crash_. The social commentary, highlight of the powers of
+  programming, and intricate ties between history and computer science woven
+  into an action filled plot were very unique. I'll be reading more Stephenson
+  books.
+
 * _Quiet_, Susan Cain
 * _2001: A Space Odyssey_, Arthur Clarke
 * _The Fault in Our Stars_, John Green
 * _Millionaire Next Door_, Thomas J. Stanley
+
+  My friend recommended this book to me after I asked him what the heck
+  I should be doing with my money. Like many self-help books,
+  _Millionaire Next Door_ spends most of the time giving examples and trying to
+  convince readers of one simple concept. Stanley's main point is that
+  millionaires are more often than not simply people who have learned to live
+  below their means and plan their investments. In other words, millionaires
+  can delay instant gratification, such as a new BMW 5 series, in exchange for
+  future rewards, such as financial independence with substantial wealth. Key
+  take-aways for me were to budget actively, consider skilled financial
+  advisors later, begin investing __now__, and teach my children frugality
+  early on.
