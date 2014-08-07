@@ -1,13 +1,32 @@
 # Site settings
-title: Your awesome title
+title: Richard Hwang
 email: richard.hwang201@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Some interesting things"
 baseurl: ""
 #url: "http://rhwang201.github.com"
 url: "http://0.0.0.0:4000"
-twitter_username: jekyllrb
 github_username:  rhwang201
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Sample Jekyll Image Tag settings
+
+name: A Jekyll blog
+pygments: true
+
+image:
+  source: assets/images/_fullsize
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400

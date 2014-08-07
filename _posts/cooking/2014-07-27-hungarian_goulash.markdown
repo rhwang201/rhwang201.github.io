@@ -22,4 +22,4 @@ but, hey, I like stews, too.
 
 First, the ingredients: 
 
-![Ingredients]({{site.url}}/images/goulash_ingredients.jpg "Ingredients")
+![Ingredients]({{site.url}}/images/goulash/goulash_ingredients.jpg "Ingredients")
