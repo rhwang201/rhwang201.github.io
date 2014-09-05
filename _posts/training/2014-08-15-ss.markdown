@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: bench powerclean
+---
+
+Bench:      170x5x3
+
+Power Clean:   140x5x3
+
+### Notes
+
+More controlled on way down, more even on way up.
+
+Tighten up at bottom setup more.

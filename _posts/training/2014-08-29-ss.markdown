@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: bench powerclean
+---
+
+Squat:      135
+
+Bench:      177.5x5x3
+
+Power Clean:   147.5x5x3
+
+### Notes
