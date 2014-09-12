@@ -5,7 +5,7 @@ categories: training
 tags: bench powerclean
 ---
 
-Squat:      155
+Squat:      155x5x5
 
 Bench:      180x5x3
 
