@@ -59,8 +59,20 @@ list with key points/thoughts:
   books.
 
 * _Quiet_, Susan Cain
+
+  Meh. I did not read the entire thing. I consistently heard (unnecessary)
+  justifications for possessing introverted traits. Did not learn much.
+
 * _2001: A Space Odyssey_, Arthur Clarke
+
+  Cool space novel. Not the coolest thing every (I barely remember it now), but 
+  I remember enjoying it.
+
 * _The Fault in Our Stars_, John Green
+
+  Touching story of two young adults with cancer. Very simple story, meant for
+  younger readers.
+
 * _Millionaire Next Door_, Thomas J. Stanley
 
   My friend recommended this book to me after I asked him what the heck
