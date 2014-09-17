@@ -1,0 +1,22 @@
+---
+layout: default
+title: Training
+---
+
+<div class="home">
+
+  <h1>Training Sessions</h1>
+
+  <ul class="posts">
+    <!-- TODO only show most recent posts --!>
+    <!-- TODO paginate --!>
+    {% for post in site.categories.training %}
+      <li>
+        <!-- TODO on one line, left and right --!>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
