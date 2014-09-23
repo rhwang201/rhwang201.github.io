@@ -137,7 +137,16 @@ a:visited { color: #205caa; }
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
+.home h1 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+.home img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
 
 .posts { list-style-type: none; }
 
@@ -147,7 +156,7 @@ a:visited { color: #205caa; }
 }
 
 .posts .post-link {
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: -1px;
   line-height: 1;
   color: #343434;
@@ -183,6 +192,12 @@ a:visited { color: #205caa; }
 
 .post-content > * { margin: 20px 0; }
 
+.post-content img {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  max-height: 40em;
+}
 
 .post-content h1,
 .post-content h2,

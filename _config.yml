@@ -3,8 +3,8 @@ title: Richard Hwang
 email: richard.hwang201@gmail.com
 description: "A universe of atoms, an atom in the universe"
 baseurl: ""
-#url: "http://rhwang201.github.com"
-url: "http://0.0.0.0:4000"
+url: "http://rhwang201.github.com"
+#url: "http://0.0.0.0:4000"
 github_username:  rhwang201
 
 # Build settings
@@ -12,4 +12,4 @@ markdown: kramdown
 permalink: pretty
 
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "page:num"
