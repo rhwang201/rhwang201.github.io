@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Richard Hwang, and I currently work as a Software Engineer at
+[C3 Energy](https://www.c3energy.com). I graduated from [UC
+Berkeley](https://www.berkeley.edu) with a degree in Electrical Engineering and
+Computer Science in May 2014.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I enjoy playing guitar, weightlifting, reading (history, science, fiction),
+cooking, and making things (like this blog!).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you ever want to feel small or feel like the world is a boring place, check
+out this [website](http://www.apod.nasa.gov).
