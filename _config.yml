@@ -10,6 +10,3 @@ github_username:  rhwang201
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-paginate: 5
-paginate_path: "page:num"
