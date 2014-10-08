@@ -173,6 +173,13 @@ a:visited { color: #205caa; }
 /* Post styles */
 /* ----------------------------------------------------------*/
 
+.post .banner {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  max-height: 40em;
+}
+
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
