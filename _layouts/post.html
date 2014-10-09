@@ -6,9 +6,17 @@ layout: default
   <header class="post-header">
     <h1>{{ page.title }}</h1>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
 
-  <img class="banner" src="/images/barbell.jpg"/>
+  {% if page.categories contains 'training' %}
+      <img class="banner" src="/images/barbell.jpg"/>
+  {% elsif page.categories contains 'books' %}
+      <img class="banner" src="/images/books.jpg"/>
+  {% elsif page.categories contains 'life' %}
+      <img class="banner" src="/images/sea.jpg"/>
+  {% elsif page.categories contains 'cooking' %}
+      <img class="banner" src="/images/cast-iron.jpg"/>
+  {% endif %}
+  </header>
 
   <article class="post-content">
   {{ content }}
