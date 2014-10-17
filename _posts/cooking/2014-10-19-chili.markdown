@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Chili"
+category: cooking
+tags: beef chili castiron slowcooker
+---
+
+I used to make chili all the time summer of 2011, freshman year. Let's do that
+again.
