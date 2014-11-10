@@ -13,4 +13,4 @@ I enjoy playing guitar, weightlifting, reading (history, science, fiction),
 cooking, and making things (like this blog!).
 
 If you ever want to feel small or feel like the world is a boring place, check
-out this [website](http://www.apod.nasa.gov).
+out this [website](http://apod.nasa.gov).
