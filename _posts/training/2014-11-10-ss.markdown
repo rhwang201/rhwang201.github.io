@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat press deadlift
+---
+
+Squat:          195x5x3
+
+Press:          125x5x3
+
+Deadlift:       265x5
+
+Pullup:         25x7,5,4
+
+### Notes
+
+Squats were okay. Still a bit too low as usual. Some reps had good bounce!
+Think of leaning over a bit more, keeping the ass back, and bracing the abs.
+
+Press (apparently) looked really easy. Focused more on bracing the abs today.
+Eccentric portions were a bit shaky.
+
+Deadlifts were easy. Focused on keeping the weight on the traps, need to do
+a better job of that during setup. Back angle looked good though.
+
+Pullups were okay. Didn't get as full ROM as chinups.
