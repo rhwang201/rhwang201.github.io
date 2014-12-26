@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench chinup
+---
+
+Squat       :   235x5x3
+
+Bench       :   210x5x2,4
+
+Chinup      :   0x10,9,5
+
+### Notes
+
+Lifted with Deng in Golds San Jose today. Squats were okay, ended with 185x15.
+
+Jumped on bench, and pushed it out.
