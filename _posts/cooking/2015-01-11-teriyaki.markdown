@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Teriyaki Chicken"
+category: cooking
+tags: chicken asian
+---
+
+Quick meal, wanted to try something new. Usually when I bake chicken thighs,
+I just lazily throw some seasoning on. This time, I tried making
+[teriyaki chicken](http://allrecipes.com/Recipe/Baked-Teriyaki-Chicken/Detail.aspx).
+
+![Teriyaki Chicken]({{site.url}}/images/cooking/teriyaki.jpg "Teriyaki")
+
+The recipe is pretty easy. I eyeballed most of the ingredients. I think
+I turned the heat too high when making the sauce, as it thickened too quick. It
+was still really tasty though! Shouldn't be hard to get the consistency down
+after one or two more takes.

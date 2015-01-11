@@ -22,45 +22,45 @@ but, hey, I like stews, too.
 
 First, the ingredients.
 
-![Ingredients]({{site.url}}/images/goulash/goulash_ingredients.jpg
+![Ingredients]({{site.url}}/images/cooking/goulash/goulash_ingredients.jpg
 "Ingredients")
 
 And some paprika, pepper, and salt.
 
-![Seasoning]({{site.url}}/images/goulash/goulash_seasoning.jpg "Seasoning")
+![Seasoning]({{site.url}}/images/cooking/goulash/goulash_seasoning.jpg "Seasoning")
 
 Dice and mince everything up.
 
-![Prep]({{site.url}}/images/goulash/goulash_prep.jpg "Preparation")
+![Prep]({{site.url}}/images/cooking/goulash/goulash_prep.jpg "Preparation")
 
 Saute the onions...
 
-![Onions]({{site.url}}/images/goulash/goulash_onions.jpg "Onions")
+![Onions]({{site.url}}/images/cooking/goulash/goulash_onions.jpg "Onions")
 
 Then add in that meat!
 
-![Meat In]({{site.url}}/images/goulash/goulash_meat_in.jpg "Meat in")
+![Meat In]({{site.url}}/images/cooking/goulash/goulash_meat_in.jpg "Meat in")
 
 Get the outside nice and browned and full of flavor.
 
-![Meat Browned]({{site.url}}/images/goulash/goulash_meat_browned.jpg "Meat
+![Meat Browned]({{site.url}}/images/cooking/goulash/goulash_meat_browned.jpg "Meat
 browned")
 
 Throw the meat and vegetables into the slow cooker.
 
-![Slowcooker]({{site.url}}/images/goulash/goulash_slowcooker.jpg "Slowcooker")
+![Slowcooker]({{site.url}}/images/cooking/goulash/goulash_slowcooker.jpg "Slowcooker")
 
 And fill it with liquid (I used chicken stock).
 
-![Slowcooker Liquid]({{site.url}}/images/goulash/goulash_slowcooker_liquid.jpg
+![Slowcooker Liquid]({{site.url}}/images/cooking/goulash/goulash_slowcooker_liquid.jpg
 "Slowcooker Liquid")
 
 Turn on the slow cooker, go through your day, and come back to this!
 
 ![Slowcooker
-Finished]({{site.url}}/images/goulash/goulash_slowcooker_finished.jpg
+Finished]({{site.url}}/images/cooking/goulash/goulash_slowcooker_finished.jpg
 "Slowcooker Finished")
 
 Not a bad meal, wish I had some bread to go with it.
 
-![Done]({{site.url}}/images/goulash/goulash_done.jpg "Done")
+![Done]({{site.url}}/images/cooking/goulash/goulash_done.jpg "Done")
