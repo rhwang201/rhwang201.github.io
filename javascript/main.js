@@ -27,7 +27,7 @@ $(document).ready(function() {
         var d = moment(e.date),
             year = d.year(),
             month = padNumber(d.month() + 1, 2),
-            date = padNumber(d.date(), 2);
+            date = padNumber(d.date() + 1, 2);
 
         return {
           title: e.title,
