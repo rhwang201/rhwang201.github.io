@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Beef Stew"
+category: cooking
+tags: beef stew
+---
+
+Trying new things again! Beef stew, this time, a dish I really like. I followed
+[two](http://www.foodnetwork.com/recipes/paula-deen/old-time-beef-stew-recipe.html)
+[recipes](http://thepioneerwoman.com/cooking/2013/01/sunday-night-stew/).
+
+![Beef Stew]({{site.url}}/images/cooking/beef_stew.jpg "Beef Stew")
+
+The stew turned out awesome! Browning the meat before makes such a nice
+difference, as well as including the meat juices in the stew. For vegetables,
+I used carrots and celery; I'll try out turnips next time, per the second
+recipe. There was a bit too much of _something_ in the finished stew, I would
+guess it was either the tomato paste or Worcestershire. In any case, this is an
+easy recipe that will easily become a go-to, with plenty of room to play
+around. Only downside is it takes quite a while (2 hours). 
