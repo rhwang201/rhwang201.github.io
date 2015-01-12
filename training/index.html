@@ -7,16 +7,24 @@ title: Training
 
   <h1>Training Sessions</h1>
   <img class="banner" src="/images/barbell.jpg"/>
-  <ul class="posts">
-    <!-- TODO only show most recent posts --!>
-    <!-- TODO paginate --!>
+
+  <div class="training-calendar-data" style="display: none;">
+    [
     {% for post in site.categories.training %}
-      <li>
-        <!-- TODO on one line, left and right --!>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
+      {
+        "title": "{{ post.title }}",
+        "date": "{{ post.date | date_to_xmlschema }}",
+        "lifts": {
+          {% for lift in post.lifts %}
+          "{{ lift.name }}": "{{ lift.weight }}" {% if forloop.index != forloop.length %},{% endif %}
+          {% endfor %}
+        }
+      }{% if forloop.index != forloop.length %},{% endif %}
     {% endfor %}
-  </ul>
+    ]
+  </div>
+
+  <div class="calendar">
+  </div>
 
 </div>

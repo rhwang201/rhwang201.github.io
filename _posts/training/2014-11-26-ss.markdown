@@ -3,11 +3,20 @@ layout: post
 title:  "Training"
 categories: training
 tags: squat bench powerclean chinup
+lifts:
+  - name: squat
+    weight: 245
+  - name: bench
+    weight: 192.5
+  - name: powerclean
+    weight: 157.5
+  - name: chinup
+    weight: 40
 ---
 
 Squat       :   245x5x3
 
-Bench       :   192.4x5x3
+Bench       :   192.5x5x3
 
 Power Clean :   157.5x3x4
 
