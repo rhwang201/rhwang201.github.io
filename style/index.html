@@ -1,0 +1,19 @@
+---
+layout: default
+title: Style
+---
+
+<div class="home">
+
+  <h1>Style</h1>
+  <img class="banner" src="/images/sea.jpg"/>
+  <ul class="posts">
+    {% for post in site.categories.style %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

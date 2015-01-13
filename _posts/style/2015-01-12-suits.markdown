@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Suits"
+category: style
+tags: suits
+---
+
+![Navy Suit]({{site.url}}/images/style/navy_suit.jpg "navy_suit")
