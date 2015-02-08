@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench chinup
+---
+
+Squat       :   145x5x4,165x5
+
+Bench       :   190x5x5
+
+Chinup      :   20x8,8,6
+
+### Notes
+
+Trained at Linkedin today. Also started intermediate programming for presses.
+Squat was okay, need to balance over midfoot during initial descent better.
+
+Bench was okay, the setup at linkedin (squishy bench + weird rack) threw me off
+a bit, but got all my reps.
+
+Chins were weaker than expected too, maybe because I was wearing a vest. Was
+trying to go for higher reps...
+
+Bodyweight squat and overhead mobility.
