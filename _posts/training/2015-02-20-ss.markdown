@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat press chinup
+---
+
+Squat       :   195x5x5
+
+Bench       :   170x5x3
+
+Chinup      :   0x10,10,6
+
+### Notes
+
+Meh, squats were a little shitty. Right hip experienced pain...
+
+Bench was pretty easy.
