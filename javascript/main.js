@@ -5,11 +5,33 @@
  * - auto gen the front matter quick stats
  */
 
+
+// MAP
+function initialize() {
+  var mapOptions = {
+    center: { lat: 0, lng: 0 },
+    zoom: 1
+  };
+  var map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+
+  var marker = new google.maps.Marker({
+      position: new google.maps.LatLng(47.6097, -122.3331),
+      map: map,
+      title: "West Coast Trip!"
+  });
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+
+
 $(document).ready(function() {
   if (!$('.training-calendar-data').html()) {
     return;
   }
 
+  /**
+   * Number to padded String
+   */
   var padNumber = function(x, n) {
     x = x.toString();
     if (x.length < n) {
@@ -37,6 +59,7 @@ $(document).ready(function() {
         };
       });
 
+
   // Instantiate full calendar.
   $('.calendar').fullCalendar({
     header: {
@@ -45,4 +68,6 @@ $(document).ready(function() {
     },
     events: eventObjects
   });
+
+
 });

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Travel
+---
+
+<div class="home">
+
+  <h1>Travel</h1>
+  <img class="banner" src="/images/barbell.jpg"/>
+
+  <div id="map-canvas" style="width: 100%; height: 400px;">
+  </div>
+
+  <ul class="posts">
+    {% for post in site.categories.travel %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
