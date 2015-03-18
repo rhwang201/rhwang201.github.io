@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench deadlift
+---
+
+Squat       :   195x5,185x5
+
+Bench       :   180x5x3
+
+Deadlift    :   340x5,270x8
+
+### Notes
+
+Squat sucks, fuck.
+
+Bench was actually a bit difficult. Need to focus on right shoulder health.
+
+Double overhand for first two reps, then switched to alternate, which wildly
+threw off technique. Keep it close to the body.
