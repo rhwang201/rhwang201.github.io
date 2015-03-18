@@ -10,15 +10,21 @@
 function initialize() {
   var mapOptions = {
     center: { lat: 0, lng: 0 },
+    mapTypeId: google.maps.MapTypeId.HYBRID,
     zoom: 1
   };
   var map = new google.maps.Map(document.getElementById('map-canvas'),
       mapOptions);
 
-  var marker = new google.maps.Marker({
-      position: new google.maps.LatLng(47.6097, -122.3331),
-      map: map,
-      title: "West Coast Trip!"
+  var travelData = $('.travel-data').html(),
+      rawTravelData = JSON.parse(travelData);
+
+  _.each(rawTravelData, function(trip) {
+      new google.maps.Marker({
+          position: new google.maps.LatLng(trip.coords.lat, trip.coords.long),
+          map: map,
+          title: trip.title
+      });
   });
 }
 google.maps.event.addDomListener(window, 'load', initialize);
