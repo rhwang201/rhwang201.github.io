@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: travel-post
 title: "West Coast Trip"
 category: travel
 coords:
   - lat: 47.6097
-    long: -122.3331
+    lng: -122.3331
   - lat: 45.5200
-    long: -122.6819
+    lng: -122.6819
 ---
 
 A long awaited West Coast adventure with old friends from back home!

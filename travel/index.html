@@ -6,7 +6,6 @@ title: Travel
 <div class="home">
 
   <h1>Travel</h1>
-  <img class="banner" src="/images/barbell.jpg"/>
 
   <div id="map-canvas" style="width: 100%; height: 400px;">
   </div>
@@ -17,12 +16,14 @@ title: Travel
       {
         "title": "{{ post.title }}",
         "date": "{{ post.date | date_to_xmlschema }}",
-        "coords": {
-          {% for coord in post.coords %}
-          "lat": "{{ coord.lat }}",
-          "long": "{{ coord.long }}" {% if forloop.index != forloop.length %},{% endif %}
-          {% endfor %}
-        }
+        "coords": [
+            {% for coord in post.coords %}
+            {
+              "lat": "{{ coord.lat }}",
+              "lng": "{{ coord.lng }}"
+            }{% if forloop.index != forloop.length %},{% endif %}
+            {% endfor %}
+        ]
       }{% if forloop.index != forloop.length %},{% endif %}
     {% endfor %}
     ]

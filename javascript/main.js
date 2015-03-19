@@ -19,11 +19,18 @@ function initialize() {
   var travelData = $('.travel-data').html(),
       rawTravelData = JSON.parse(travelData);
 
-  _.each(rawTravelData, function(trip) {
-      new google.maps.Marker({
-          position: new google.maps.LatLng(trip.coords.lat, trip.coords.long),
-          map: map,
-          title: trip.title
+  _.each(rawTravelData, function(trip, i) {
+      if (i == 0 && trip.center) {
+          map.setCenter(new google.maps.LatLng(trip.coords[0].lat, trip.coords[0].lng));
+          map.setZoom(5);
+      }
+
+      _.each(trip.coords, function(coord) {
+          new google.maps.Marker({
+              position: new google.maps.LatLng(coord.lat, coord.lng),
+              map: map,
+              title: trip.title
+          });
       });
   });
 }
