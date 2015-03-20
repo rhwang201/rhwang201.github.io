@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat press chinup
+---
+
+Squat       :   135x5x4,185x5x2
+
+Press       :   160x1x2
+
+Chinup      :   25x7x3
+
+### Notes
+
+Did box squats today. Avoid sitting back motion, just squat normally. The pause
+at the bottom should hopefully help me maintain tightness.
+
+Sticking point in press is just above head...
+
+Chins were good.
