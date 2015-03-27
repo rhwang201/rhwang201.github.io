@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench deadlift
+---
+
+Squat       :   190x5x3
+
+Bench       :   230x2
+
+Deadlift    :   365x5,275x8
+
+### Notes
+
+Box squats, not bad. Some reps sat back more, some reps sat down. A little
+slow...
+
+Not the best spot, so only went for two. Not bad, a little slow.
+
+Deads were _hard_. Might need smaller jumps and/or a form check.
