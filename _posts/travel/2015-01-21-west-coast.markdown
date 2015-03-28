@@ -2,6 +2,7 @@
 layout: travel-post
 title: "West Coast Trip"
 category: travel
+zoom: 5
 coords:
   - lat: 47.6097
     lng: -122.3331

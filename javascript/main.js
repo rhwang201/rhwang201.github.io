@@ -22,7 +22,7 @@ function initialize() {
   _.each(rawTravelData, function(trip, i) {
       if (i == 0 && trip.center) {
           map.setCenter(new google.maps.LatLng(trip.coords[0].lat, trip.coords[0].lng));
-          map.setZoom(5);
+          map.setZoom(trip.zoom ? trip.zoom : 5);
       }
 
       _.each(trip.coords, function(coord) {

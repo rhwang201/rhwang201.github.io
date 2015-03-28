@@ -1,0 +1,100 @@
+---
+layout: travel-post
+title: "Turkey Springs, Big Sur"
+category: travel
+zoom: 12
+coords:
+  - lat: 35.812208
+    lng: -121.300571
+---
+
+My first ever backpacking trip!
+
+This trip started at the Salmon Creek Trailhead, right off Highway 1 near the
+southern parts of Big Sur. We arrived Saturday midday, the Sun shining high,
+skies clear.
+
+![Waterfall](http://127.0.0.1:4000/images/travel/turkey_springs/waterfall.jpg "Waterfall")
+
+First, we visited a waterfall near the trailhead. We did a bit of climbing
+around the rocky waterfall area. The area was full of people.
+
+
+![Beginning](http://127.0.0.1:4000/images/travel/turkey_springs/beginning.jpg "Beginning")
+
+Then, we began the hike. The initial portion is a continuous yet gradual uphill
+climb through forest. The first vista point is a rocky hill following a small
+flowery patch of land. I climbed up the hill and enjoyed a pretty view, as my
+companions came up. We hiked for a while more, before arriving at a crossroads
+that became our lunch spot. We had originally planned to go to Estrella Camp,
+less than a mile away from the crossroads. However, to my delight, we decided
+to venture the unknown and take the other path, aiming to arrive at Turkey
+Springs Camp before dark. Our lack of water was a complication. We were
+guaranteed a water source at Estrella, but it was unsure how much water we
+would encounter on the way to Turkey Springs. I happened to have no water on me
+at all, but I managed.
+
+
+![Forest](http://127.0.0.1:4000/images/travel/turkey_springs/forest.jpg "Forest")
+![Hill sit](http://127.0.0.1:4000/images/travel/turkey_springs/hill_sit.jpg "Hill sit")
+![Flower Hill](http://127.0.0.1:4000/images/travel/turkey_springs/flower_hill.jpg "Flower hill")
+
+The next section was more of the same, if not slightly more difficult. At one
+point, a large tree had fallen across the slope, forcing us to go down and
+around on steep terrain. After a long winding up a large hill, we emerged atop
+an open hillside, where we took another break. Here was a neatly made fire pit,
+healthy grass, and a few trees for shade. We briefly considered stopping there,
+but the lack of water and the un-campsite-like appearance convinced us to keep
+on going.
+
+
+![Hill side](http://127.0.0.1:4000/images/travel/turkey_springs/hill_side.jpg "Hill side")
+![Rainbow](http://127.0.0.1:4000/images/travel/turkey_springs/rainbow.jpg "Rainbow")
+![Five view](http://127.0.0.1:4000/images/travel/turkey_springs/five_view.jpg "Five view")
+
+After the open hilltop, we began crossing the tops of short hilly terrain,
+alternating between grassy plaintops and small groves of trees. The trees were
+often in valleys, where we found small creeks of water flowing. Then, the hills
+opened up to flat, grassy plains, where we found a real campsite, as well as
+trailmarkers. Once again, we decided not to stay at the campsite, in part
+because there was no water and in part because, with its broken down tables and
+benches and the surrounding fence, it emitted quite a creepy aura. The trail
+signs we found, however, were very helpful, and we headed off for Turkey
+Springs, two miles away.
+
+
+![Tree Hill](http://127.0.0.1:4000/images/travel/turkey_springs/tree_hill.jpg "Tree Hill")
+![Camp](http://127.0.0.1:4000/images/travel/turkey_springs/camp.jpg "Camp")
+
+We crossed more flat, grassy plains, before arriving at a picturesque hilltop
+and beginning a descent. At one point, we encountered tree branches placed as
+a barracade across the trail. Spotting a trailmarker pointing to a path into
+some trees, we wisely followed the unblocked path. After about ten more minutes
+of the rocky forest, we spotted a red post, vibrantly marking the presence of
+man. We had arrived at Turkey Springs. A small area enclosed by trees, it has
+a quick flowing stream next to it, as well as a fire pit and grill. We happily
+set up camp and settled down by the fire for the night. We shared brats,
+cookies, wine, whiskey, and laughter until, too tired, we retired to our
+tesnts.
+
+In the morning, I woke up early and explored the surrounding area by myself. It
+was nice to get some alone time, after having been with the group for a whole
+day. It was also nice to be _completely_ alone. I found an open hillside near
+camp, where I got a good view of the area. It is a hilly, mostly tree-covered
+valley, stretching on as far as I could see. After relaxing there for a bit,
+I set out to find out why the fork in the trail had been blocked. The path
+ventured across some rocky hillsides before seemingly ending upon an open
+hilltop. While the area was very pretty, there was no water and not much cover
+from the sun. Happy at having found out why the path was blocked, I trekked
+back to camp and arrived around 10.
+
+
+![Jenga](http://127.0.0.1:4000/images/travel/turkey_springs/jenga.jpg "Jenga")
+![Dark Tree](http://127.0.0.1:4000/images/travel/turkey_springs/dark_tree.jpg "Dark tree")
+
+We had a nice breakfast of oatmeal, ramen, and tea before saying goodbye to
+Turkey Springs and departing for the hike back around 11. It was for the most
+part easy and quick. We stopped at the open hilltop to rest, take pictures,
+make a fire, and play reverse-jenga. As we descended into the forest, a mist
+enveloped the hills and it became a bit wet. We reached our cars around 1515
+and left Big Sur, with tired bodies but full hearts.
