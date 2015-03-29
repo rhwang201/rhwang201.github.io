@@ -4,6 +4,8 @@ title: "Zero to One"
 category: books
 ---
 
+![Zero to One]({{site.url}}/images/book/zero_to_one.jpg "Zero to One")
+
 After _Into Thin Air_, I didn't have any books on my reading list. I downloaded
 a bunch that sounded interesting, but nothing was enticing. I asked to borrow
 my coworker's copy of _Zero to One_, by Peter Thiel, and breezed through it.

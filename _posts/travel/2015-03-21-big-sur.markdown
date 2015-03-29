@@ -14,13 +14,13 @@ This trip started at the Salmon Creek Trailhead, right off Highway 1 near the
 southern parts of Big Sur. We arrived Saturday midday, the Sun shining high,
 skies clear.
 
-![Waterfall](http://127.0.0.1:4000/images/travel/turkey_springs/waterfall.jpg "Waterfall")
+![Waterfall]({{site.url}}/images/travel/turkey_springs/waterfall.jpg "Waterfall")
 
 First, we visited a waterfall near the trailhead. We did a bit of climbing
 around the rocky waterfall area. The area was full of people.
 
 
-![Beginning](http://127.0.0.1:4000/images/travel/turkey_springs/beginning.jpg "Beginning")
+![Beginning]({{site.url}}/images/travel/turkey_springs/beginning.jpg "Beginning")
 
 Then, we began the hike. The initial portion is a continuous yet gradual uphill
 climb through forest. The first vista point is a rocky hill following a small
@@ -35,9 +35,9 @@ would encounter on the way to Turkey Springs. I happened to have no water on me
 at all, but I managed.
 
 
-![Forest](http://127.0.0.1:4000/images/travel/turkey_springs/forest.jpg "Forest")
-![Hill sit](http://127.0.0.1:4000/images/travel/turkey_springs/hill_sit.jpg "Hill sit")
-![Flower Hill](http://127.0.0.1:4000/images/travel/turkey_springs/flower_hill.jpg "Flower hill")
+![Forest]({{site.url}}/images/travel/turkey_springs/forest.jpg "Forest")
+![Hill sit]({{site.url}}/images/travel/turkey_springs/hill_sit.jpg "Hill sit")
+![Flower Hill]({{site.url}}/images/travel/turkey_springs/flower_hill.jpg "Flower hill")
 
 The next section was more of the same, if not slightly more difficult. At one
 point, a large tree had fallen across the slope, forcing us to go down and
@@ -48,9 +48,9 @@ but the lack of water and the un-campsite-like appearance convinced us to keep
 on going.
 
 
-![Hill side](http://127.0.0.1:4000/images/travel/turkey_springs/hill_side.jpg "Hill side")
-![Rainbow](http://127.0.0.1:4000/images/travel/turkey_springs/rainbow.jpg "Rainbow")
-![Five view](http://127.0.0.1:4000/images/travel/turkey_springs/five_view.jpg "Five view")
+![Hill side]({{site.url}}/images/travel/turkey_springs/hill_side.jpg "Hill side")
+![Rainbow]({{site.url}}/images/travel/turkey_springs/rainbow.jpg "Rainbow")
+![Five view]({{site.url}}/images/travel/turkey_springs/five_view.jpg "Five view")
 
 After the open hilltop, we began crossing the tops of short hilly terrain,
 alternating between grassy plaintops and small groves of trees. The trees were
@@ -63,8 +63,8 @@ signs we found, however, were very helpful, and we headed off for Turkey
 Springs, two miles away.
 
 
-![Tree Hill](http://127.0.0.1:4000/images/travel/turkey_springs/tree_hill.jpg "Tree Hill")
-![Camp](http://127.0.0.1:4000/images/travel/turkey_springs/camp.jpg "Camp")
+![Tree Hill]({{site.url}}/images/travel/turkey_springs/tree_hill.jpg "Tree Hill")
+![Camp]({{site.url}}/images/travel/turkey_springs/camp.jpg "Camp")
 
 We crossed more flat, grassy plains, before arriving at a picturesque hilltop
 and beginning a descent. At one point, we encountered tree branches placed as
@@ -89,8 +89,8 @@ from the sun. Happy at having found out why the path was blocked, I trekked
 back to camp and arrived around 10.
 
 
-![Jenga](http://127.0.0.1:4000/images/travel/turkey_springs/jenga.jpg "Jenga")
-![Dark Tree](http://127.0.0.1:4000/images/travel/turkey_springs/dark_tree.jpg "Dark tree")
+![Jenga]({{site.url}}/images/travel/turkey_springs/jenga.jpg "Jenga")
+![Dark Tree]({{site.url}}/images/travel/turkey_springs/dark_tree.jpg "Dark tree")
 
 We had a nice breakfast of oatmeal, ramen, and tea before saying goodbye to
 Turkey Springs and departing for the hike back around 11. It was for the most
