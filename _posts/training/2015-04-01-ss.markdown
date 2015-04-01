@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   200x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   370x5;275x8,5
+
+Chinup      :   9,7,5
+
+### Notes
+
+Squat was okay, rack still a bit messed up...
+
+Bench was okay, sans irritated right shoulder.
+
+Deads were good, video showed pretty solid working set.
