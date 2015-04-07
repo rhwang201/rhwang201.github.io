@@ -5,9 +5,9 @@ categories: training
 tags: squat bench deadlift chinup
 ---
 
-Squat       :   205x5x3
-
 Bench       :   210x5x3,4x2,2
+
+Squat       :   205x5x3
 
 Deadlift    :   375x5;285x8
 
@@ -15,4 +15,16 @@ Chinup      :   25x7,6,5
 
 ### Notes
 
+Benched first, and fuck, still missed. First set surprisingly strong, however, spotter
+had hover hands, which threw off my form for that set, as well as all subsequent sets.
+Fucking sigh. Fatigue gathered quickly, and I missed two reps. Because of slightly wack
+form (elbow/shoulder position shifting while bar going up), you should redo this weight.
+But fucking nail it next time.
 
+Squat was actually pretty good, kept everything tight. Should try without box soon...
+
+Deads were brutal. Was in a bit of a rush. Video of working set looks legit, but back
+does feel slightly suspect. Drop-off set performed with minimal rest, that killed me.
+
+Chins were damn hard after drop-off deads. Was still catching breath, arms dead tired.
+I'm thinking weighted bodyweight movements only on heavy days (Monday) from now on.
