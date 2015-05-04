@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat press chinup
+---
+
+Squat       :   195x5x3
+
+Press       :   145x3
+
+Chinup      :   70x3
+
+### Notes
+
+Damn it, late log. Numbers might be off...
