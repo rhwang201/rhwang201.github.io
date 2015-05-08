@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: bench deadlift chinup
+---
+
+Bench       :   215x3x2
+
+Deadlift    :   355x5;265x7
+
+Chinup      :   55x3x3
+
+### Notes
+
+First set of bench was *not* legit (horrible spotter), so I did it again. Right shoulder
+area was really hurting.
+
+Back was really tired for deadlifts. In fact, I was really tired overall.
+
+Actually tried squatting after benching, but the rack was too shitty. Need to fix it.
