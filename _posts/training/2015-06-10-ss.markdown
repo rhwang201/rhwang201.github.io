@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat bench pullup
+---
+
+Squat       :   135x5x3
+
+Bench       :   175x5x3
+
+Dips        :   0x12x3
+
+### Notes

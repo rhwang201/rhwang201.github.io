@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Training"
+categories: training
+tags: squat press deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Press       :   140x3x3
+
+Deadlift    :   400x5
+
+Chinup      :   70x3x3
+
+### Notes
+
+Squat form better, keep back more upright, use quads more.
+
+Press was pretty easy, felt abs working.
+
+Deads were hard, same level though.
+
+Chins were hard.
