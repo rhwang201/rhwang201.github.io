@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "APOD New Tab"
+categories: projects
+---
+
+Sometimes, when you take two things you love and mash them together, it turns into
+something even more awesome.
+
+[Astronomy Picture of the Day](http://apod.nasa.gov) is a website that has been running
+since 1995. Two former NASA scientists curate pictures related to astronomical phenomena
+and post a new picture every day along with an easy to read description. Starting with
+fourteen visitors, APOD (as it is affectionately known) now has a wide fanbase across the
+world.
+
+For as long as I've used computers, I've been a sucker for filling screens with beautiful
+imagery. Only an insane person would have an ugly desktop background; you see that image
+tens of times a day, how could you let it be an eyesore! That also applies to web
+browsers, especially as computer users now spend most of their time surfing the web.
+We open new tabs constantly.  Why not make that new tab screen enjoyable?
+
+APOD New Tab helps me meet my daily recommended value for informative astronomy pictures,
+while satisfying my never-ending craving for jaw-dropping pictures. Building it was
+simple and fun. The new tab is just displaying a webpage, afterall, so I only needed
+my basic knowledge of HTML/CSS/Javascript. To make my life even easier, NASA has a super
+simple APOD API.
+
+I really enjoyed setting personal deadlines/goals and shipping this to the Chrome
+Webstore, even when I was a bit uncomfortable. It is fun to play with design and iterate
+on the product. Even though there are already several extensions that accomplish the same
+thing, I'm glad I made my own (and I even think it's better than the rest ;) ).

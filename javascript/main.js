@@ -57,7 +57,7 @@ $(document).ready(function() {
   }
 
   var rawData = $('.training-calendar-data').html(),
-      rawEventObjects = JSON.parse(rawData);
+      rawEventObjects = JSON.parse(rawData),
       eventObjects = _.map(rawEventObjects, function(e) {
         var d = moment(e.date),
             year = d.year(),
