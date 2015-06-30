@@ -4,6 +4,8 @@ title:  "APOD New Tab"
 categories: projects
 ---
 
+![APOD New Tab]({{site.url}}/images/apod.png "APOD New Tab")
+
 Sometimes, when you take two things you love and mash them together, it turns into
 something even more awesome.
 
