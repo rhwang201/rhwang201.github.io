@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Lessons from a coworker"
+category: life
+---
+
+Today, I celebrate (not literally, I actually forgot) my one year anniversary as
+a software engineer at C3 Energy, my first full-time position. Coincidentally, today is
+also the last day for the guy who was a major factor in my joining and who I was probably
+closest to at C3. Here are some lessons I learned from him.
+
+* Don't complain. (sometimes...if you do, it should always be constructive)
+* Communicate more effectively. If you think you're doing a good job, do an even better
+  job.
+* The intangibles matter. People matter. Be nice to others, help others out.
+
+Good luck man. The list seems short, but the value is immense
