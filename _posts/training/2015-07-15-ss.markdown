@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: press deadlift dip backextension
+---
+
+Press       :   115x5x3
+
+Deadlift    :   225x7x3
+
+Dip         :   0x16,15,10
+
+Back Extension  : 0x10x3
+
+### Notes
+
+Lower back still shitty. High fatigue. Press was boring.
+
+Deads were boring. Focused on keeping weight over mid-foot.
+
+Dips are mostly to depth now. Pretty sore still from bench.
+
+Back extensions with 10s pause at end, 1s pause between reps.
