@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip facepull pullover
+---
+
+Squat       :   165x5x3
+
+Press       :   125x5x4,5x1
+
+Dip         :   45x8x3
+
+Facepull    :   40x15x3
+
+Pullover    :   25x10x3
+
+### Notes
+
+Squat not good, left hip no bueno.
+
+Press weak, back aggravated (spine?)
+
+Lean, on dips
