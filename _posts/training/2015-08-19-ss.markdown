@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench pullup
+---
+
+Squat       :   135x5x3
+
+Bench       :   165x5x3
+
+Pullup      :   0x10,9,7
+
+### Notes
+
+Need to eat more. Sleep seems to have been good lately. Good cues to remember for squat
+are "stand up straight" and to keep your ass back (while staying over midfoot). The
+latter will keep your posterior chain tight and your positiioning solid in the hole.
+
+Bench was whatever, still seem to favor left side?
+
+Pullups whatever.
+
+Did some squat mobility as part of warmup, overhead, goblet, left couch
