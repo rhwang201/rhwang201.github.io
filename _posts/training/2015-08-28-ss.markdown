@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup pullover
+---
+
+Squat       :   185x5x3
+
+Bench       :   215x3
+
+Chinup      :   90x3
+
+Pullover    :   30x10x3
+
+### Notes
+
+Uninspiring workout. Tired and hungry. Right wrist was hurting. Squat tightness was okay,
+but still sitting unevenly.
+
+Bench was weak, in part because of bad squat rack (right shoulder), in part because of
+wrist.
+
+Chins were good, but probably because I'm lighter.
