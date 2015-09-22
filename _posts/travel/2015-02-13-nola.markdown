@@ -1,0 +1,11 @@
+---
+layout: travel-post
+title: "Mardi Gras, New Orleans"
+category: travel
+zoom: 12
+coords:
+  - lat: 29.959464
+    lng: -90.064877
+---
+
+
