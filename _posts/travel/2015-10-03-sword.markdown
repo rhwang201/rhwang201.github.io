@@ -1,0 +1,40 @@
+---
+layout: travel-post
+title: "Sword Lake, Carson-Iceberg Wilderness"
+category: travel
+zoom: 15
+coords:
+  - lat: 36.252553
+    lng: -121.690074
+---
+
+Five guys take on Sword Lake. Ying and Jack joined the Silas-Daniel-Richard triumvirate
+for their first foray into the wilderness. The drive into Stanislaus was pleasant. We
+stopped by the Summit Ranger Station in Pinecrest to pick up our free permits. Gabriel
+remembered me from my last trip. We turned off at Clark Fork Road, before Dardanelle.
+Crossed two bridges, then slowly drove up 6N06, a gravel road, pretty rough at times. At
+the very end, we found a few pick up trucks and the County Line trail head.
+
+The trail begins with a decent uphill climb, before transitioning to a long gradual
+descent. It was a very pretty hike, despite being late in the season. Lots of partially
+wooded areas and scenic vistas. We passed through what was probably a meadow busy with
+flowers earlier in the season. Before we knew it, we arrived at Sword Lake. At
+a leisurely pace, we arrived in one hour. The trip must have only been two miles, one
+way. The trail takes you to the South-East corner of the lake. We picked our campsite on
+the Western end. The area is very scenic, with a large bluff framing the Eastern
+backdrop. We set up camp, then clambered up a hill to overlook Spicer Meadow Reservoir
+and one fine sunset. We returned to camp as the light faded, setup a fire, and ate and
+talked into the evening.
+
+![hammock]({{site.url}}/images/travel/sword/hammock.jpg "Hammock")
+
+![sword]({{site.url}}/images/travel/sword/sword.jpg "Sword")
+
+![sunset]({{site.url}}/images/travel/sword/sunset.jpg "sunset")
+
+Night was a little rough. Strong winds, then light rain around 0300. I unslung my hammock
+and laid under Silas' tarp.
+
+Waking up, everyone else was pretty cold. We made a fire and ate some breakfast. I took
+a dip in the frigid Sword Lake. Along the hike back, I scavenged for wildflowers, for
+Shin. The drive back down 6N06 was easy going, compared to up.
