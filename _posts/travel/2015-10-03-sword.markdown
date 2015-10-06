@@ -4,8 +4,8 @@ title: "Sword Lake, Carson-Iceberg Wilderness"
 category: travel
 zoom: 15
 coords:
-  - lat: 36.252553
-    lng: -121.690074
+  - lat: 38.407169
+    lng: -119.934511
 ---
 
 Five guys take on Sword Lake. Ying and Jack joined the Silas-Daniel-Richard triumvirate
