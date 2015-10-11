@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Anathem"
+category: books
+---
+
+![Anathem]({{site.url}}/images/books/anathem.png "Anathem")
+
+_Anathem_ by Neal Stephenson is one of the best books I've read recently. A fun,
+explorative piece of science fiction, _Anathem_ was much needed.
+
+One of my favorite parts of _Anathem_ is the beginning. I love being tossed into an
+unknown world and being left there to work out basic concepts. It was a joy landing in
+Arbre and figuring out what concents, maths, orders, praxis, theors, etc are. As I told
+Shin, Stephenson did a great job with slowly revealing mysteries. Or, in one of my
+favorite metaphors, as you fully explored one area, you realized there exists yet
+a larger one still shrouded in the fog of war. Right as we become accustomed to life in
+the Concent, extraordinary events occur and we are thrown out. Much of the beginnings of
+the book is full of such mysterious adventuring. However, there did come a point when
+I began to feel typical plot/action devices came to the foreground, which made the book
+seem a bit less special to me. After the adventure portion, the book shifted towards more
+scientific topics as the encounter with the Daban Urnud approached, which I enjoyed.
+
+As usual with Stephenson, I enjoyed his exploration of a scientific topic. The Many
+Worlds Interpretation and the idea of a higher, purer theoretical world (Platonic
+idealism?) are the main topics covered, and they made for a fascinating plot backbone.
+I enjoyed that he used Project Orion. Also cool was how Raz discovered Jules by eating
+the alien's food and realizing it did not interact with his body systems because it was
+composed of completely different matter from a different universe.
+
+Finally, once again as usual with Stephenson, his characters were fun, quirky, and sharp.
+Of course popular with me were the Ringing Vale. I couldn't help but feel extreme remorse
+when the four Valers went on their final emergence without anything remotely close to
+a second thought. Samman is funny and always in character. Fraa Jad, too, was always
+fun to hear from. Memorable characters as always from a Stephenson novel.
