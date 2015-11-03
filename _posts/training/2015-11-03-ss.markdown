@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press deadlift facepull curl
+---
+
+Squat       :   185x5x3
+
+Press       :   105x5x3
+
+Deadlift    :   365x5
+
+Facepull    :   35x15x3
+
+Curl        :   20x12x3
+
+### Notes
+
+Light, form day, with less recovery (schedule this week shifted because gym closed
+Friday). Good form on squats, focused on putting bar on "shelf", staying over midfoot,
+bracing the abs.
+
+Press was okay, also focused on bracing abs and taking a big breath.
+
+Deads not bad. Back could be in a bit more extension.
