@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench backextension curl
+---
+
+Squat       :   205x5x3
+
+Bench       :   165x5x3
+
+Back Extension  :   25x10x5
+
+Curl        :   22.5x12,12,9,7
+
+### Notes
+
+Okay workout. A little hungry, back super sore from deadlifts. Squats okay, rack still
+not consistent, but definitely started off in correct position. Did a couple pauses,
+think that's a good idea on light day.
+
+Bench boring, _but_ arms uneven. Left arm a bit higher, might be related to bad rack
+during latter squat sets
