@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup backextension
+---
+
+Squat       :   205x5x3
+
+Bench       :   165x5x3
+
+Chinup      :   25x7x3
+
+Back Extension  :   25x12x3
+
+### Notes
+
+Fatigued, even though I didn't feel strictly tired. Also, sore. Squat was okay, focused
+on rack which was eh.
+
+Bench was good, tried to be more even.
+
+I should probably sleep a lot.
