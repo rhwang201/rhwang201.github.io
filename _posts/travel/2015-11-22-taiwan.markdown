@@ -2,12 +2,14 @@
 layout: travel-post
 title: "Taiwan"
 category: travel
-zoom: 5
+zoom: 7 
 coords:
-  - lat: 47.6097
-    lng: -122.3331
-  - lat: 45.5200
-    lng: -122.6819
+  - lat: 23.476851
+    lng: 120.450140
+  - lat: 25.064508
+    lng: 121.566605
+  - lat: 23.507553
+    lng: 120.801460
 ---
 
 I took advantange of Thanksgiving break to visit Mom, Dad, and family in Taiwan for the
