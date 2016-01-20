@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench backextension facepull
+---
+
+Squat       :   135x5x5
+
+Bench       :   155x5x3
+
+Back Extension  :   25x14x3
+
+Facepull    :   40x12x3
+
+### Notes
+
+Boring, light day. Squat sucks. While doing pauses, I figured out I'm very _forward_ in
+the hole. Need to get positioning there back.
+
+Bench was whatever.
+
+Back extensions good, got a pump. Maybe more control/pause at top, though.
+
+Facepulls good
