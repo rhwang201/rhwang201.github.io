@@ -1,0 +1,44 @@
+---
+layout: travel-post
+title: "Tahoe"
+category: travel
+zoom: 7
+coords:
+  - lat: -0.745304
+    lng: -90.311851
+---
+
+Did the annual Tahoe cabin trip with Charvi & co! Very different crowd than last year.
+Shin and I drove up with Alex and Shirley, after picking up our rental boards from Sports
+Basement. We hit some pretty severe traffic on the 50 in El Dorado. We arrived at our
+cabin in South Lake Tahoe sometime after midnight.
+
+![Tahoe]({{site.url}}/images/travel/tahoe2016/tahoe.jpg "tahoe")
+
+
+We hit the slopes at Kirkwood our first day. Shin and I started with a green off of Lift 1.
+We took a little time warming up, getting some of the feel back. Then we started
+practicing toe-side, which wasn't that hard. After a while, we took a shuttle back to the
+other side (Timber Creek?). There we hoped on some blues that had more constant descent
+and really started to get our groove on. After a couple of runs, we ran into Huyson!
+Together, we went down a gulch. It was awesome. Going up and down the walls, making quick
+adjustments over bumps and in between trees. We finished the day gulching and practicing
+S-turns on the blue. Back home, we all gourged ourselves on nachos, fish soups, and
+snacks. We hot-tubbed, played King's Cup, and passed out.
+
+Sunday was spent at Heavenly, which differs greatly from Kirkwood. Heavenly is much more
+expansive, but as Huyson pointed out, Kirkwood has more little hidden niches and gulches
+to explore. Shin and I took one narrow green to warm up, then spent the rest of the day
+tearing up blues. We took Ridge Run a lot, then went to the Nevada side and went down
+Orion many times. I started to get pretty proficient at S-turns. As I got more
+comfortable, some tips stood out:
+
+1. Getting low is fun
+2. Initiate the movement with your torso/shoulders
+3. Look where you want to go
+4. Lean down the hill...
+5. So you can unweight your backfoot and gracefully transition into the turn
+
+Boarding was tiring; Shin and I ate and nibbled all throughout the day. My legs were
+pretty fatigued by the middle of our day. We were both pretty good by the end of the
+trip. I was pleased with our progress. Very fun picking something new up.
