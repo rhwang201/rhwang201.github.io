@@ -2,10 +2,10 @@
 layout: travel-post
 title: "Tahoe"
 category: travel
-zoom: 7
+zoom: 12
 coords:
-  - lat: -0.745304
-    lng: -90.311851
+  - lat: 38.930065
+    lng: -119.901046
 ---
 
 Did the annual Tahoe cabin trip with Charvi & co! Very different crowd than last year.
