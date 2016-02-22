@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Setup computer"
+categories: projects
+---
+
+Dotfiles are [here](https://github.com/rhwang201/dotfile://github.com/rhwang201/dotfiles "dotfiles")
+
+Download these applications:
+* iTerm
+* Google Chrome
+* Alfred
+* f.lux
+* Caffeine
+* SizeUp
+* Time Out
