@@ -2,10 +2,12 @@
 layout: travel-post
 title: "Lost Coast Trail"
 category: travel
-zoom: 14
+zoom: 9
 coords:
-  - lat: 37.230580
-    lng: -122.095827
+  - lat: 40.039423
+    lng: -124.079326
+  - lat: 40.288914
+    lng: -124.356186
 ---
 
 Man, what an adventure. Some of Shin and my plans for the Presidents' Day long weekend
