@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Blackboxes'
+categories: life
+---
+
+The less of a blackbox something is, the easier it is to dig in and debug.
+
+It's such an obvious statement. Blackboxing is supremely useful for building large
+systems with modularity. It is helpful to know a bit about everything though. If you
+treat something as a pure blackbox and it breaks down, what can you do but feed it inputs
+and look at the outputs? Knowing some, _any_, details about the guts can help you. If
+you've run your fingers along the oil chamber and felt the nuts that secure it, you'll be
+less afraid when it actually comes time to change the oil. If you understand how RDDs are
+implemented despite having never looked at the source code, at least you can stumble
+along like an educated drunkard.
+
+When breaking down tasks and working on a large project, yes blackbox things for the sake
+of productivity. But don't be afraid to breakdown those walls. Let your curiosity take
+the wheel. You'll be surprise when it helps you out later down the road.
