@@ -2,6 +2,7 @@
 layout: post
 title: "Love Apart"
 category: life
+private: true
 ---
 
 You can love someone even if you are no longer together with her.
