@@ -7,6 +7,7 @@ categories: projects
 Dotfiles are [here](https://github.com/rhwang201/dotfile://github.com/rhwang201/dotfiles "dotfiles")
 
 Download these applications:
+
 * iTerm
 * Google Chrome
 * Alfred
