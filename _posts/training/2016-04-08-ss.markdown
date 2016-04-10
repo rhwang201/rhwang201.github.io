@@ -1,0 +1,17 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench dip
+---
+
+Squat       :   225x3x3
+
+Bench       :   225x2
+
+Dip         :   95x2x3
+
+### Notes
+
+Not sure if this is exactly what I did (late log...). Squat wasn't great, others were
+good.
