@@ -2,10 +2,10 @@
 layout: travel-post
 title: "Hodgkin Meadows, Yosemite"
 category: travel
-zoom: 17
+zoom: 10
 coords:
-  - lat: 35.990505
-    lng: -121.495592
+  - lat: 37.798848
+    lng: -119.865879
 ---
 
 I joined Stephanie and (Pinterest) friends on a camping trip to Yosemite. Originally, we
