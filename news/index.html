@@ -1,0 +1,23 @@
+---
+layout: default
+title: News
+---
+
+<div class="home">
+
+  <h1>News</h1>
+  <img class="banner" src="/images/sea.jpg"/>
+  <ul class="posts">
+    <!-- TODO only show most recent posts --!>
+    <!-- TODO paginate --!>
+    {% for post in site.categories.news %}
+        {% if post.private != true %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
