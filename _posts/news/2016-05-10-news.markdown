@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The World Today"
+categories: news
+---
+
+* Obama to visit Hiroshima, which US Presidents have avoided doing, as they do not wish
+  the visit to be interpreted as an apology.
