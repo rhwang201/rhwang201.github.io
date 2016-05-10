@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Today's News"
+category: news
+---
+
+I am trying something new out. I have been reading the news more recently, in particular
+US politics. I will record daily news highlights on this blog. (A lot of this may mirror
+Vox Sentences).
+
+* Brazil's government is consumed by scandal and sillyness in the high government.
+* Conservatives are claiming Facebook's Trending Topics is biased.
