@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The World Today"
+categories: news
+---
+
+* ISIS suicide bombs claim 80 lives in Baghdad
+* Kenya plans to close all refugee camps and expel 600000 refugees. Dadaab refugee camp
+  has 300000, the largest camp in the world.
