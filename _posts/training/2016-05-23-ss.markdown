@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench deadlift dip curl
+---
+
+Bench       :   200x5x5;175x7
+
+Deadlift    :   275x5x3;225x7x2
+
+Dips        :   45x6x2,10
+
+Curl        :   35x12x3
+
+### Notes
+
+Not a bad day. Rode to work, so took a while to warmup. Bench felt super light at first,
+so I wasn't being very tight. Did pauses on drop off to calm it down.
+
+Deadlift not bad at times, really need to make sure I'm back on my heels.
+
+Dips were _strong_. Set of 10 was cake.
+
+Curls were fun, think I actually chose good weight, reps.
