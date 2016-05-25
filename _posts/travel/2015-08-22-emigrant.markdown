@@ -4,8 +4,8 @@ title: "Emigrant Wilderness"
 category: travel
 zoom: 15
 coords:
-  - lat: 36.252553
-    lng: -121.690074
+  - lat: 38.262929
+    lng: -119.745384
 ---
 
 For my first solo backpacking trip and my first motorcycle backpacking trip, I took
