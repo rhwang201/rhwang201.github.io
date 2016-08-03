@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Money'
+categories: life
+---
+
+I was talking today, and I thought about money. I've always thought I already have more
+money than I need to be comfortable and happy. Maybe I should quantify a bit.
+
+# Basics
+* I enjoy living in the city. It seems like at most I will pay $1900 for somewhere
+  I truly enjoy living.
+* I cook a lot, and don't like eating out by nature. And even when I do eat out, I love
+  eating the cheap, local stuff.
+
+# Entertainment
+* I like outdoors things, but also DIY and doing it cheap.
+* I want motorcycles and cars (although the car will be super cheap).
+* I like clothes, although I buy some things used. Pants, shoes will be new.
+* Salsa is like $20 a week.
+
+# Saving
+
+# TODO
+At the end of August, calculate how much you spent. Assume that is how much you need to
+live comfortably. Calculate when you can retire.
