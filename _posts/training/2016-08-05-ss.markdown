@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip backextension
+---
+
+Squat       :   195x5x3
+
+Press       :   120x5x3
+
+Dip         :   50x5x5
+
+Back Extension  :   25x11x3
+
+Curl        :   45x8x5
+
+### Notes
