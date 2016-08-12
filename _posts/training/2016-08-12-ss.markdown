@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup ghr
+---
+
+Squat       :   215x5x3
+
+Bench       :   200x5x3
+
+Deadlift    :   325x5
+
+Chinup      :   90x1;0x8x3
+
+GHR         :   0x4x3
+
+### Notes
+
+Squat okay, should repeat weight. Was a bit forward, posterior chain not tight throughout
+ascent.
+
+Bad spotter on bench. Got first two sets solidly. Spotter helped on last one. Re-do.
+
+Deads were pretty good, got chalk. Stay back, squeeze the bar off the floor.
+
+Chins for fun.
+
+GHR for fun.
