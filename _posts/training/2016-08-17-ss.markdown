@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup ghr
+---
+
+Squat       :   215x5x3
+
+Bench       :   200x5x2,4x1
+
+Deadlift    :   335x5
+
+Chinup      :   45x5x2,4x1,1x1
+
+GHR         :   0x3x3
+
+### Notes
+
+Squat okay, still not perfect tightness in posterior chain. Either do a light day, or go
+up.
+
+Bench wasn't bad, a bit uneven. Missed last rep.
+
+Deads were good.
+
+Chins were good.
