@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   195x7x3
+
+Bench       :   195x5x3
+
+Deadlift    :   315x7,5,5
+
+Chinup      :   25x7x3
+
+### Notes
+
+Squats were better.
+
+Killed in on bench. Keep it tight brotha.
+
+Deads were good.
