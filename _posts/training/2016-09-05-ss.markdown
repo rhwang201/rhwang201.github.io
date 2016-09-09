@@ -7,7 +7,7 @@ tags: squat bench deadlift chinup
 
 Squat       :   195x7x3
 
-Bench       :   195x5x3
+Bench       :   195x5x5
 
 Deadlift    :   315x7,5,5
 
