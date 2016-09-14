@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x8x3
+
+Bench       :   155x9,9,10,10
+
+Deadlift    :   355x5
+
+Chinup      :   35x5x5
+
+### Notes
+
+Sleepy. Squats are okay...sitting back better, for form still isn't great.  Stay light,
+stay tight.
+
+Bench was too easy.
+
+Deads were good. Push through heel, squeezed off the floor.
+
+Chins were good.
