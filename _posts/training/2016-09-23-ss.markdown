@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x5
+
+Bench       :   195x7,7,6;165x9
+
+Deadlift    :   365x5;315x5x2
+
+Chinup      :   35x5,4,4
+
+### Notes
+
+Fun workout. Squats still really aren't there, should've gone a bit lighter. Really think
+about the pelvis, and not moving the knees at all in the hole.
+
+Bench was pretty good.
+
+Deads were solid, but keep the bar on your legs.
+
+Grip/lats were gone for chins.
