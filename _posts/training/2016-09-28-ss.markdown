@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Bench       :   175x7x3
+
+Deadlift    :   315x7x3
+
+Chinup      :   25x7,6,5
+
+### Notes
+
+Soccer last night, but sleepy af. Squats sucked. Rack and hole position all regressed.
+Not loading posterior chain.
+
+Bench was easy.
+
+Pushed pretty hard on deads, strong chest up.
+
+Tired for chins.
