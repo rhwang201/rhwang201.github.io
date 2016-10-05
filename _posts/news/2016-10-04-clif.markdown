@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How I Built This: Clif Bar"
+categories: news
+---
+
+Good podcast. Entreprenerial vision of Clif Bar founder, wanted to do things his own way,
+had a vision and stuck with it. Didn't want to sell company, ended up giving away ton to
+employees.
