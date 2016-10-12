@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   175x5x3
+
+Bench       :   165x10x3
+
+Deadlift    :   315x6x3
+
+Chinup      :   25x7,6,4
+
+### Notes
+
+Somehow hurt right hamstring (playing soccer?). Squat was okay.
+
+Bench was good.
+
+Deads weren't amazing, but good.
