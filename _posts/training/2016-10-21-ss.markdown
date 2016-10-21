@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   195x5x3
+
+Bench       :   215x2x5
+
+Deadlift    :   405x1x2
+
+Chinup      :   90x1x2;100x1x2;110x1
+
+### Notes
+
+Not a bad day, had coffee. Pause squats. Lower back not the greatest. Decent job sitting
+back though.
+
+Bench was good! Could've done more with spotter. Left bicep though gets a tiny strained.
+
+Deads were hard. Definitely going forward a bit, and not fully loading posterior chain at
+the bottom.
+
+Chins were strong. Final part of ROM a bit limited on last rep, but I guess that's fine.
