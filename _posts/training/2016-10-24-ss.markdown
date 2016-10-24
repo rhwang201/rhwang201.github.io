@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl
+---
+
+Squat       :   205x5x3
+
+Press       :   130x5,4,4
+
+Dip         :   75x5x5
+
+Curl        :   20x10,10,6
+
+### Notes
+
+Decently fatigued today.  Squats were meh. Right shoulder is super weird on rack...Some
+of the last reps seemed pretty good actually, when I was less really-tense and more kinda
+sat back into loading the hamstrings.
+
+Press was hard.
+
+Dips were okay. Potentially loose on anterior delts.
