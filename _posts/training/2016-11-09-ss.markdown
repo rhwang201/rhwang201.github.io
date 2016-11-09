@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench
+---
+
+Squat       :   185x5x3
+
+Bench       :   165x5x3
+
+### Notes
+
+Feeling sick. Sore throat, weak.
