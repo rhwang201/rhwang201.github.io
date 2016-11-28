@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   275x5x2
+
+Chinup      :   0x8x3
+
+### Notes
+
+First day back in a while. Took it tenderly. Saw Varun Pai in the gym. Witnessed a minor
+vehicle accident on commute to work.
