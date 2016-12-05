@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip leglift facepull curl
+---
+
+Squat       :   185x7x3
+
+Press       :   125x5,4x2
+
+Dip         :   55x10,10,9,2
+
+Leg Lift    :   0x10x3
+
+Facepull    :   60x15x3
+
+Curl        :   17.5x10x3
+
+### Notes
+
+Skiing this weekend! Squats were pretty good actually, sitting into hole and loading
+posterior chain well. Keeping weight over midfoot on ascent.
+
+Press was aight, hard.
+
+Dips were good.
