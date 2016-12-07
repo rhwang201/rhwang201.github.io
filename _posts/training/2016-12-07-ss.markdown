@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   175x7x3
+
+Bench       :   165x7x3
+
+Deadlift    :   225x7x3
+
+Chinup      :   0x10,6,6
+
+### Notes
+
+Meh day. Stomach was a little messed up from curry lol. Squats were meh. Not as tight in
+posterior chain as Monday.
+
+Bench was whatever.
+
+Deads whatever.
+
+Arms tired for chins.
