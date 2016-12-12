@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup curl
+---
+
+Squat       :   185x5x3
+
+Bench       :   185x7x3
+
+Deadlift    :   275x7x2;225x8
+
+Chinup      :   25x5x3
+
+Curl        :   17.5x8x3
+
+### Notes
+
+Not good sleep. Squats started off shitty, but definitely improved. Right hip was weird,
+but eventually started loading posterior chain correctly and things felt better.
+
+Bench was aight.
+
+Deads were good, dropoff was tiring.
