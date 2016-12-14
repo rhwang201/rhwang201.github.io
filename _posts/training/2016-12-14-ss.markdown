@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip backextension leglift facepull curl
+---
+
+Squat       :   165x5x3
+
+Press       :   105x5x3
+
+Dip         :   25x10x3
+
+Back Extension  :   25x10x3
+
+Leglift     :   0x10x3
+
+Facepull    :   60x15x3
+
+Curl        :   17.5x10x3
+
+### Notes
+
+Man, cannot sleep. Squats were okay. Knees back on descent and ascent.
