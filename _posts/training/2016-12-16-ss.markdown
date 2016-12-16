@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Bench       :   205x3x3
+
+Deadlift    :   315x5
+
+Chinup      :   45x5x3;0x8
+
+### Notes
+
+Not good sleep again. Squats are meh. Anterior hip is whack. Did pauses though. Main take
+away from today is to set the trunk and keep it tight; that'll have down-stream effects.
+
+Bench was aight, no spotter.
+
+Deads were really good actually
+
+Chins felt strong, probably because I'm lighter.
