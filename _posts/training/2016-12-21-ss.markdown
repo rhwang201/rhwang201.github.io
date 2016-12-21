@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup facepull leglift
+---
+
+Squat       :   175x5x3
+
+Bench       :   165x5x3
+
+Deadlift    :   275x7x3
+
+Chinup      :   10x8,6,4
+
+Facepull    :   70x10x3
+
+Leglift     :   0x12x3
+
+### Notes
+
+Pretty good day actually! Squat warmups were good, knees stable, sat well into hole.
+Pauses on working set. After unracking, be sure to set weight on feet correctly first.
+
+Bench was good. Did close-grip pauses. Some unstable parts out of hole, but fixed it.
+
+Deads were good, grip died.
