@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl
+---
+
+Squat       :   205x5x3
+
+Press       :   135x3,2,2,2
+
+Dip         :   80x4x5;45x8
+
+Curl        :   17.5x14,12,7,7
+
+### Notes
