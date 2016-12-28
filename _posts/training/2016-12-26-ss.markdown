@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup 
+---
+
+Squat       :   205x6x3
+
+Bench       :   195x5x3
+
+Deadlift    :   315x5x2;275x5
+
+Chinup      :   45x5x3
+
+### Notes
+
+Late log, so these might not have been exact numbers.
