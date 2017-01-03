@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip facepull curl backextension leglift
+---
+
+Squat       :   205x5x5
+
+Press       :   125x5x3
+
+Dip         :   70x3x3
+
+Facepull    :   80x15x3
+
+Curl        :   20x10x3
+
+Back Extension  :   45x10x3
+
+Leglift     :   0x10x3
+
+### Notes
+
+Squat sucked. Rack was also really bad, irritated right shoulder.
+
+Got press.
+
+Dips sucked because of shoulder.
