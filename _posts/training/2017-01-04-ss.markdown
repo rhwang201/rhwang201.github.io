@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup 
+---
+
+Squat       :   195x7x3
+
+Bench       :   175x5x3
+
+Deadlift    :   315x5x3
+
+Chinup      :   0x7x5
+
+### Notes
+
+Rack is better, but not good. Squat itself not bad. Staying over midfoot, sitting into
+squat (pelvis down). Need to consistently keep back tight.
+
+Bench whatever, elbows and right shoulder aggravated.
+
+Deads easy.
