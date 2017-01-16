@@ -1,0 +1,8 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup 
+---
+
+I did stuff, with extra volume, but didn't log.
