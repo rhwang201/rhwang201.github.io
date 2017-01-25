@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup 
+---
+
+Squat       :   185x5x3
+
+Bench       :   175x7x5
+
+Deadlift    :   315x5
+
+Chinup      :   0x10,10,7,5
+
+### Notes
+
+Squats were okay, focused on keeping weight on heel, and (towards the end) keeping knees
+in place at the bottom.
+
+Bench was good, tried keeping head off the bench.
+
+Deads were aight.
