@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift pullup 
+---
+
+Squat   :   195x5x3
+
+Bench   :   180x5x3
+
+Deadlift    :   315x5
+
+Pullup  :   0x10,8,7
+
+### Notes
+
+Squat okay on some reps. Setup correctly at beginning, chest up, hips under. Knees out,
+bar into back.
+
+Bench was easy.
+
+Deads easy, but back a bit tweaked.
+
+Did proper pullups (not neutral-grip).
