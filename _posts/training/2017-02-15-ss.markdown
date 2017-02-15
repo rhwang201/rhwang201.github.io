@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip facepull curl
+---
+
+Squat       :   185x6x3
+
+Press       :   105x5x5
+
+Dip         :   45x5x3
+
+Facepull    :   100x15x5
+
+Curl        :   22.5x7x5
+
+### Notes
+
+Squats better. Chest up, stay back/tight.
