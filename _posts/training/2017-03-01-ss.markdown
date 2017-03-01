@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip facepull curl
+---
+
+Squat       :   195x7x3
+
+Press       :   105x7x3
+
+Dip         :   45x7x3
+
+Facepull    :   110x15x4
+
+Curl        :   17.5x12,12,9
+
+### Notes
+
+Squat not bad. Keep bar over midfoot slot, back tight.
+
+Dips easy.
