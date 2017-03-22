@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat   :   185x5x3
+
+Bench   :   195x5x3
+
+Deadlift    :   315x5
+
+Chinup  :   25x7,7,6,1
+
+### Notes
+
+First day in the gym in a while. Squats sucked, lower back is not in right place. Should
+drop the weight.
+
+Bench pretty challenging, bar position at bottom not good.
+
+Deads okay.
+
+Chins okay.
