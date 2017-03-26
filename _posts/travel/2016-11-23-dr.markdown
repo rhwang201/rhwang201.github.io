@@ -1,0 +1,9 @@
+---
+layout: travel-post
+title: "Dominican Republic"
+category: travel
+zoom: 10
+coords:
+  - lat: 18.578348
+    lng: -68.388510
+---

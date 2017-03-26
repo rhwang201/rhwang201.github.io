@@ -1,0 +1,9 @@
+---
+layout: travel-post
+title: "Denver"
+category: travel
+zoom: 10
+coords:
+  - lat: 39.738134
+    lng: -104.982861
+---

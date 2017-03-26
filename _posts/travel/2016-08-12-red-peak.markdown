@@ -1,0 +1,9 @@
+---
+layout: travel-post
+title: "Red Peak"
+category: travel
+zoom: 10
+coords:
+  - lat: 38.924631
+    lng: -120.221196
+---

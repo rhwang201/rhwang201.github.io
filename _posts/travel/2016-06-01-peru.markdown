@@ -1,0 +1,9 @@
+---
+layout: travel-post
+title: "Peru"
+category: travel
+zoom: 5
+coords:
+  - lat: -9.278034
+    lng: -74.982479
+---

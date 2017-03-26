@@ -1,0 +1,9 @@
+---
+layout: travel-post
+title: "NYC"
+category: travel
+zoom: 10
+coords:
+  - lat: 40.740177
+    lng: -73.990396
+---
