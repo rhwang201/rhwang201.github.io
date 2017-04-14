@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Bench       :   155x5x3
+
+Deadlift    :   275x5
+
+Chinup      :   0x7x3
+
+### Notes
+
+Chill day. Squats aight.
+
+Close-grip bench
