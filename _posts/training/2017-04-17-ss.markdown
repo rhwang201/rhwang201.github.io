@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   175x7x3
+
+Bench       :   195x5x3
+
+Deadlift    :   315x5
+
+Chinup      :   25x7,5,5
+
+### Notes
+
+Squat not bad, keeping moment arm on back short, back is tight.
+
+Too aggressive on bench, not good. Also, Kent's been pointing out right leg is splayed
+out real far.
+
+Deads were easy.
