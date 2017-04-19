@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl facepull
+---
+
+Squat       :   175x5x3
+
+Press       :   105x5x3
+
+Dip         :   0x12x3
+
+Curl        :   20x10x3
+
+Facepull    :   80x15x3
+
+### Notes
+
+Fatigued, as expected from Monday. Squats aren't great, maybe lower weight to get form
+right.
+
+Press boring.
+
+Dips good.
