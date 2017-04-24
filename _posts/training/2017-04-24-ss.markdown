@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl facepull
+---
+
+Squat       :   175x8x3
+
+Press       :   115x5x5
+
+Dip         :   65x5x5;45x7
+
+Facepull    :   90x15x3
+
+Curl        :   20x10x3
+
+### Notes
+
+Squats not bad. Neutral pelvis, knees don't move at bottom.
+
+Press good.
