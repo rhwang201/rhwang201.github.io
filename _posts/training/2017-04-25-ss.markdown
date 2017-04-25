@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   175x5x3
+
+Bench       :   165x5x3
+
+Deadlift    :   275x5x3
+
+Chinup      :   0x9,9,6,3
+
+### Notes
+
+Not a bad day actually. Focused on setting pelvis, taking big breath, and bracing abs for
+squats, helped a lot.
+
+Close grip bench.
+
+Deads not bad. Make sure weight on traps, and entire back tight (lats, upper back, traps)
