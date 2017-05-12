@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl facepull
+---
+
+Squat       :   175x5x3
+
+Press       :   135x2x5
+
+Dip         :   100x2x3
+
+Facepull    :   110x15x3
+
+Curl        :   25x8,8,5,3
+
+### Notes
+
+Squats sucked, back isn't right. Really need to set the trunk, take a big breath.
+
+Press pretty good, also remember to set trunk.
+
+Dips good.
