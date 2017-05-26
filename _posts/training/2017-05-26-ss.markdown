@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip curl facepull
+---
+
+Squat       :   225x5x3
+
+Press       :   145x2,2,1
+
+Dip         :   100x2x3
+
+Facepull    :   110x15x4
+
+Curl        :   22.5x8x3
+
+### Notes
+
+Hm. Working set squats could be better. Still losing tension at the bottom, be careful
+with left knee. Good job on feeling weight on upper back on ascents though.
+
+Press whatever.
+
+Dips whatever.
