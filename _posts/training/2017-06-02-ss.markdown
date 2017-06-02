@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift
+---
+
+Squat       :   215x7x3
+
+Bench       :   205x5,5,4
+
+Deadlift    :   275x7,5,5
+
+### Notes
+
+On-call issues early morning, so very tired, and probably a lot of accumulated fatigue.
+Squats were okay, quads were really tired. Try to stay even.
+
+Went easy on bench.
+
+Dying on deads.
