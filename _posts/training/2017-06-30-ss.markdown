@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench erg
+---
+
+Squat       :   ???
+
+Bench       :   ???
+
+### Notes
+
+Didn't log.
