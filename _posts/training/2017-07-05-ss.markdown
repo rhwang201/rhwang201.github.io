@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup complex
+---
+
+Squat       :   175x5x3
+
+Bench       :   175x5x3
+
+Deadlift    :   225x5x3
+
+Chinup      :   0x8,8,6,2
+
+BEAR        :   15x4x5
+
+### Notes
+
+Squats okay. Lower back is tweaked, so take it easy. Need to shove ass back more.
+
+Bench good.
+
+Chill on deads. Back might need to be more horizontal in general.
