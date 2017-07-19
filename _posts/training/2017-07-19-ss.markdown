@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup abs row backextension bike
+---
+
+Bench       :   175x5x3
+
+Chinup      :   0x8x3
+
+Knee tucks  :   10x3
+
+Row         :   95x5x3
+
+Back Extension  :   35x10x3
+
+Plank       :   45s normal plank, 20s side plank
+
+Bike        :   10 min
+
+### Notes
+
+Resting knee one more day.
+
+Knee tucks hit abs gud.
