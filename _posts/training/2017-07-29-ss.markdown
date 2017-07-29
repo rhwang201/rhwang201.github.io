@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   50 min, up to twin peaks
+
+### Notes
+
+Chill
