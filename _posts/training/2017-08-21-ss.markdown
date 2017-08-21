@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise cableextension abs
+---
+
+Squat       :   185x6x3
+
+Bench       :   185x5x3
+
+Deadlift    :   315x5x3
+
+Chinup      :   35x6,6,4,3
+
+Lateral Raise   :   20x7x3
+
+Cable Extension :   22.5x12,12,8
+
+Knee Tuck   :   0x13x3
+
+### Notes
+
+Bad weekend of recovery. Squats whatever.
+
+Tired af for bench....grip was probably a bit more narrow.
+
+Deads were good, bar on leg.
