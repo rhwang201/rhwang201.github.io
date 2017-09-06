@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip facepull row curl
+---
+
+Squat       :   185x5x5
+
+Press       :   120x5x3
+
+Dip         :   70x5x3
+
+Facepull    :   57.5x12x3
+
+Dumbbell Row    :   75x7x3
+
+Curl        :   20x8x3
+
+### Notes
+
+Late post, numbers might be off.
