@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup lateralraise cableextension backextension run
+---
+
+Squat       :   215x3x3
+
+Bench       :   215x2x2
+
+Chinup      :   105x1x2
+
+Lateral Raise   :   25x5x3
+
+Cable Extension :   32.5x10x3
+
+Back Extension  :   45x10,8,12
+
+Run         :   800,1:30m,400,1:15m x 2
+
+### Notes
+
+Went "heavy" on squats. Recorded form a bit, knees definitely sliding forward in hole.
+You're not staying tight down there.
+
+Bench was okay, probably need straighter bar path.
+
+Chin up ROM not full. Same with lateral raise.
