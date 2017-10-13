@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   235x5x3
+
+Bench       :   215x2x3
+
+Deadlift    :   305x5
+
+Chinup      :   90x2x3
+
+Lateral Raise   :   27.5x5x3
+
+### Notes
+
+Finally got decent sleep. Not very hungry recently. Squats are meh, need to be sure to
+sit _down_, rather than too far back. Although, that's not to say don't keep your ass
+back. Also, keep weight on back, rather than arms.
+
+Bench is pretty easy. Shoulders down and relaxed, big breath, drive through heels.
+
+Deads alright, be careful here.
+
+Chins easy.
+
+Lateral raise ROM limited near top.
