@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip pullup curl
+---
+
+Squat       :   215x5x3
+
+Press       :   135x2x5
+
+Power Clean :   180x3,3,1,1,1
+
+Dip         :   105x1x3
+
+Pullup      :   0x10,10,7
+
+Curl        :   27.5x7x3
+
+### Notes
+
+Meh day. Squats were pretty good. Rack is still meh, but better than last time. Focused
+on "leaning over" more, helps with staying tight.
+
+Press was strong. All the doubles were super easy.
+
+Cleans were not good. Weight was obviously too heavy, could barely get into rack. Lower
+the weight.
+
+Dips were good, but shoulder/elbow weren't great from squats/cleans.
