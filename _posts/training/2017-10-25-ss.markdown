@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip pullup pecdeck curl
+---
+
+Squat       :   165x5x5
+
+Press       :   115x7x3
+
+Power Clean :   145x3x5
+
+Dip         :   35x7x3
+
+Pullup      :   0x10,10,8
+
+Pec Deck    :   90x10,10,8
+
+Curl        :   22.5x10,10,6
+
+### Notes
+
+Okay day getting back into it. Lower back and elbows still mildly irritated. Squats
+pretty good, sitting into hole well. Stay cautious with progression.
+
+Press good.
+
+Cleans improved. Keep shoulders down and back when setting up.
