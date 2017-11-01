@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise facepull pecdeck
+---
+
+Squat       :   195x5x3
+
+Bench       :   165x7x3
+
+Deadlift    :   255x5
+
+Chinup      :   0x10,10,8
+
+Lateral Raise   :   17.5x12x3
+
+Facepull    :   47.5x12x3
+
+Pec Deck    :   90x12x3
+
+### Notes
+
+Okay day. Squats getting better, getting a better stretch on posterior chain. Knees don't
+move when getting into hole, knees out at bottom.
+
+Bench good and easy.
+
+Deads eh. Left neck/superior chest a little tight.
