@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise pecdeck abs
+---
+
+Squat       :   215x5x3
+
+Bench       :   165x8x3
+
+Deadlift    :   285x5
+
+Chinup      :   0x10,10,8
+
+Lateral Raise   :   17.5x13x3
+
+Pec Deck    :   90x13,13,10
+
+Cable crunch    :   52.5x7x3
+
+### Notes
+
+Good day. Squats are tighter, and rack is better. Right shoulder is waking up very tight
+though. Make sure to stay tight at the bottom. Chest up, sit down, back tight.
+
+Bench was easy.
+
+Deads okay, need to use alternate grip...Also, lower back a little suspect.
