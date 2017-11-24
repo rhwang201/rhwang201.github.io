@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise abs
+---
+
+Squat       :   225x5x3;185x5
+
+Bench       :   220x2x3;175x7
+
+Deadlift    :   295x5;255x5
+
+Chinup      :   100x1x3;0x10
+
+Lateral Raise   :   22.5x10x3
+
+Cable crunch    :   57.5x10x3
+
+### Notes
+
+Kept squat light, which was probably a good decision. Start sitting "down", helps with
+hip drive.
+
+Bench okay, left side lagging a bit.
+
+Deads a lot better! Didn't even alternate grip. Using back a whole lot better now,
+especially the lats near the lower part of the scapula.
+
+Chinups were weak, maybe because of deads.
