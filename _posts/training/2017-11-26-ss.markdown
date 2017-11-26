@@ -1,0 +1,15 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat powerclean
+---
+
+Squat       :   135x5x3
+
+Power Clean :   135x3x8
+
+### Notes
+
+"Greasing the groove" day. Ten minute bike to warmup. Squat racks were pretty good in
+particular. Cleans were good; keep it close to the chest and catch it high (explode)
