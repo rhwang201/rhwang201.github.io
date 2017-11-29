@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise abs
+---
+
+Squat       :   185x5x5
+
+Bench       :   170x5x3
+
+Deadlift    :   305x5
+
+Chinup      :   25x5x3
+
+Lateral Raise   :   17.5x13,13,15
+
+Cable crunch    :   57.5x12x3
+
+### Notes
+
+Focused on form for squats. Knees shouldn't move at all in the hole. Neutral pelvis.
+
+Bench good, neck/upper chest isn't bothered.
+
+Deads a little challenging, had to alternate grip.
