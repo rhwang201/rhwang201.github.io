@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip curl
+---
+
+Squat       :   215x5x3
+
+Press       :   145x3x3
+
+Power Clean :   165x3x5
+
+Dip         :   100x3x3
+
+Curl        :   25x11,11,10
+
+### Notes
+
+Pretty bad day, not a good sign. Squats are probably too heavy, finding it hard to sit
+into hole correctly. Go lighter, so you can load posterior chain correctly.
+
+Press is pretty good.
+
+Cleans are not good. Bar isn't going high enough, you aren't moving under it fast enough,
+and you're hitting it forward, rather than up.
