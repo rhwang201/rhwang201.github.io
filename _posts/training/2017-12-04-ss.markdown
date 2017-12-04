@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise abs
+---
+
+Squat       :   205x5x3;135x5x2
+
+Bench       :   205x5x3;165x5
+
+Deadlift    :   315x5
+
+Chinup      :   45x6x3
+
+Lateral Raise   :   22.5x9x4
+
+Cable crunch    :   57.5x11x3
+
+### Notes
+
+Okay day. Went skiing this weekend, and didn't eat as much. Main thing to focus on for
+squats is keeping your weight back.
+
+Bench pretty good. Going for a more aggressive arch now, as well as more heel drive.
+
+Deads pretty good! Keeping back tight.
