@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   210x5x3
+
+Bench       :   225x2x3
+
+Deadlift    :   325x5
+
+Chinup      :   100x2,2,1
+
+Lateral Raise   :   25x7x3
+
+### Notes
+
+Squats not bad. Bar "back", chest up during set up, set pelvis, big breath and tight
+torso, stay "back" during ascent.
+
+Bench pretty good. Squeeze the bar, and drive through the heels. Big breath.
+
+Deads not bad. Make sure scapula and shoulders are "down".
