@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   220x5x3;185x5
+
+Bench       :   205x5x3;175x5
+
+Deadlift    :   335x5
+
+Chinup      :   50x5x3
+
+Lateral Raise   :   22.5x10x3
+
+### Notes
+
+Happy New Year! Camped last night, so not the best recovery. Also, had a headache/was
+lightheaded, I think from the smoke. Squats pretty good. On warmups, played with
+explicitly keeping weight on the heels, which I think is good. Weight distribution
+funkier during working set though. Look a more forward, rather than down; it seems to
+help with keeping your weight back.
+
+Bench good, though hard.
+
+Deads good, keeping back tight, bar on the legs, and driving through heels.
