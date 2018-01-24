@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift latpulldown lateralraise
+---
+
+Squat       :   205x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   275x5x3
+
+Lat Pulldown    :   ??
+
+Lateral Raise   :   ??
+
+### Notes
+
+In Taiwan, squatted without shoes, not bad actually.

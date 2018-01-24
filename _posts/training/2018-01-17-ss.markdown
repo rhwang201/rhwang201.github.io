@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip pecdeck curl
+---
+
+Squat       :   185x6x4
+
+Press       :   115x5x4
+
+Power Clean :   Practice
+
+Dip         :   0x15,15,12,10
+
+Pec Deck    :   80x10x3
+
+Curl        :   20x10x3
+
+### Notes
+
+A little more motivated today.
