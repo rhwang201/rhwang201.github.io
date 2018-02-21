@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip curl
+---
+
+Squat       :   185x5x3
+
+Press       :   110x3x3
+
+Power Clean :   105x3x5;115x3
+
+Dip         :   30x5x3
+
+Curl        :   22.5x9x3
+
+### Notes
+
+Squats okay, working on chest up, elbows down, knees stable in the hole.
+
+Press good, chest up.
+
+Power cleans...meh. If you start the movement top down, it's alright. But starting from
+the bottom is no bueno. Might need to re-learn setup for cleans?
