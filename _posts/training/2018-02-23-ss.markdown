@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   205x5x3;185x5
+
+Bench       :   210x3x3;185x5
+
+Deadlift    :   305x5
+
+Chinup      :   90x2,1;45x5
+
+Lateral Raise   :   25x7x3
+
+### Notes
+
+Okay day. Stopped looking forward in mirror for squats, starting looking forward and down
+at the floor. Seemed to help with positioning. Make sure to keep weight back, on ascent
+as well.
+
+Bench was pretty good. Wanted to get a spotter initially, but didn't.
+
+Deads good, alternated last two reps.
