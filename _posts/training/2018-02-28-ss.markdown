@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise facepull pecdeck
+---
+
+Squat       :   190x5x3
+
+Bench       :   180x5x3
+
+Deadlift    :   315x3
+
+Chinup      :   25x6x3
+
+Lateral Raise   :   17.5x12x3
+
+Facepull    :   47.5x10x3
+
+Pec Deck    :   80x11x3
+
+### Notes
+
+Meh day. Light squats were pretty easy. Rack is a bit messed up, maybe a bit too low on
+back? Set the pelvis, bar path over midfoot, and think about not moving the knees in the
+hole.
+
+Bench pretty easy.
+
+Deads no bueno, lower back wasn't feeling great...
