@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   215x5x3
+
+Bench       :   215x2x3
+
+Deadlift    :   285x5
+
+Chinup      :   100x1x3
+
+Lateral Raise   :   25x8x3
+
+### Notes
+
+Good day. For squats, need to think more "down" than "back", now.
+
+Bench not bad.
+
+Deads pretty good. Figured out "short back" is actually just engaging the lats and
+keeping the bar on the legs. Left grip a little weak.
+
+Chins good.
