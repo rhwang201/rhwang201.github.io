@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   200x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   255x5
+
+Chinup      :   80x2x3
+
+Lateral Raise   :   25x9x3
+
+### Notes
+
+Alright day. Squat form regressed a bit, not as tight. Get that back tight!
+
+Bench alright.
+
+Deads good, push through heels.
