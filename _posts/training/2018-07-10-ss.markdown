@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise
+---
+
+Squat       :   175x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   235x5
+
+Chinup      :   45x5x4
+
+Lateral Raise   :   22.5x12x3
+
+### Notes
+
+Been sick since last workout. Squats were meh, should maybe work on mobility. Feels like
+torso is limiting legs' ability to do work.
+
+Bench pretty good, squeezed the bar.
