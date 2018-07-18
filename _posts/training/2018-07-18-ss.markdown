@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise pecdeck
+---
+
+Squat       :   190x5x3
+
+Bench       :   170x5x3
+
+Deadlift    :   225x5x3
+
+Pullup      :   25x5x3
+
+Lateral Raise   :   25x10x3
+
+Pec Deck    :   80x15x3
+
+### Notes
+
+Didn't sleep great last night, but not a bad workout. Main insight from squats is:
+actually do work. In other words, _legs_ should be tight, don't only think about torso.
+Think you've been being lazy...
+
+Bench easy.
+
+Deads good. "Short" back, pushing through the heels.
+
+Switched it up with pullups, they were good.
