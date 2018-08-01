@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise pecdeck
+---
+
+Squat       :   210x5x3
+
+Bench       :   175x6x3
+
+Deadlift    :   275x5
+
+Pullup      :   25x6x3
+
+Lateral Raise   :   22.5x11x3
+
+Peck Deck   :   90x11x3
+
+### Notes
+
+Okay day. Squats can be better. Decent job staying back. Can "knees out" more. Also,
+stay back more on the ascent (think "ass up"?).
+
+Bench easy.
+
+Deads good.
