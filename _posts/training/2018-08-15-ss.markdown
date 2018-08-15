@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise pecdeck
+---
+
+Squat       :   185x6x3
+
+Bench       :   175x5x3
+
+Deadlift    :   265x5
+
+Chinup      :   35x5x3
+
+Lateral Raise   :   22.5x11x3
+
+Pec Deck    :   100x10x3
+
+### Notes
+
+Squats were okay, focused on tucking the pelvis and "compacting" back (shoulders down).
+Think pelvis still a little irritated afterwards though.
+
+Bench good.
+
+On deadlift working set, need to compact back more, specifically, put more tension on
+traps.
