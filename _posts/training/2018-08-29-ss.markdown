@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup lateralraise pecdeck
+---
+
+Squat       :   195x5x3
+
+Bench       :   175x5x3
+
+Deadlift    :   275x5
+
+Pullup      :   25x6x3
+
+Lateral Raise   :   22.5x9x4
+
+Pec Deck    :   80x9x4
+
+### Notes
+
+Not enough sleep, but not bad. Back was a little tender on warmups for squats but got
+better. Main thing is to stay in the hole on ascent.
+
+Bench was easy.
+
+Deads alright, could do more chest up. Also used alternate for a bit.
