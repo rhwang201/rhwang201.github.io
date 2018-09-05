@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip curl
+---
+
+Squat       :   195x5x3
+
+Press       :   115x5x3
+
+Power Clean :   160x3x5
+
+Dip         :   55x5x3
+
+Curl        :   22.5x11x3
+
+
+### Notes
+
+Squats good, practicing breathing still. Externally rotate shoulders on rack, also hips
+during movement.
+
+Power cleans alright, rack was bad at first. Remember to get to a _vertical_ jumping
+position.
