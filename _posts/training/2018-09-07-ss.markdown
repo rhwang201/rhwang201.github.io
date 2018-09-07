@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup row
+---
+
+Squat       :   205x6x3
+
+Bench       :   185x6x3
+
+Deadlift    :   275x5
+
+Chinup      :   90x2,2,1
+
+Row         :   145x6x3
+
+### Notes
+
+Not a strong day. Be more consistent with the rack on squats. Also, knees out.
+
+Bench chill.
