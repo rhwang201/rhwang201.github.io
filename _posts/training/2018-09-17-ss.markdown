@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup row
+---
+
+Squat       :   215x5x3
+
+Bench       :   195x5x3
+
+Deadlift    :   275x5
+
+Chinup      :   55x5x3
+
+Close-grip bench    :   135x8x3
+
+### Notes
+
+New routine. Squats not bad, need to be back more and more tight.
+
+Bench easy.
+
+Deads really easy. Maybe because no knurling on bar by the legs.
