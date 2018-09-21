@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup latraise
+---
+
+Squat       :   220x5x3
+
+Bench       :   185x6x3
+
+Deadlift    :   280x5
+
+Chinup      :   70x4x3
+
+Lateral Raise    :   22.5x11x3
+
+### Notes
+
+Pretty strong day, despite not enough sleep. Squats getting better, nice big breath,
+knees out, chest up, staying back.
+
+Bench easy.
+
+Rest easy.
