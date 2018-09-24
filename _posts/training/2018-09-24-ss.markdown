@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip curl
+---
+
+Squat       :   225x5x3
+
+Press       :   135x4,3,3;125x5
+
+Power Clean :   155x5x3
+
+Dip         :   80x5x3
+
+Curl        :   25x10,10,7
+
+
+### Notes
+
+Squats not bad, proceed slowly and with caution
+
+Press too hard.
+
+Power cleans good.
+
+Dip hard.
