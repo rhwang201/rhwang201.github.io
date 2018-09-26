@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup row
+---
+
+Squat       :   205x5x3
+
+Bench       :   175x5x3
+
+Deadlift    :   285x5
+
+Pullup      :   25x6x3
+
+Row         :   145x5x3
+
+### Notes
+
+Squats okay, inconsistent. Make sure at the bottom of the movement, there's no knee
+movement, ie just hips going down. Be careful with increasing weight.
+
+Close grip for bench, easy.
