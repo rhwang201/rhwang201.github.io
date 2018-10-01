@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   200x4x3
+
+Deadlift    :   290x5
+
+Chinup      :   60x5x3
+
+Close-grip Bench    :   135x7x3
+
+### Notes
+
+Squats alright. Bodyweight form is a lot better (tuck the pelvis, knees don't move in
+hole).
+
+Bench really weak. Probably because not eating that much. Last rep, had help.
+
+Deads good. Weight more back this time, because of better setup.
