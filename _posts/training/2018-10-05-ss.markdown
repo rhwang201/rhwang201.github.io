@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   230x5,5,4;185x5
+
+Bench       :   190x5,5,4;155x7
+
+Deadlift    :   295x5
+
+Chinup      :   90x2x2;45x7x2
+
+### Notes
+
+Went "aggressive" on squats today, nice. Remember to keep legs tight and actually use
+them.
+
+Bench not bad, spread and bent the bar. Fast, and hold breath.
+
+Deads easy still, good setup, last rep alternate.
