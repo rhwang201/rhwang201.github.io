@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup prowler
+---
+
+Squat       :   205x5x3;185x5
+
+Bench       :   175x5x3
+
+Deadlift    :   275x5
+
+Pullup      :   30x5x3
+
+Prowler     :   45x6;0x2
+
+### Notes
+
+A lot better today than Monday, as expected. Squats a lot better. Knees more forward,
+while still keeping weight over midfoot, seems like engaging posterior chain more. Breath
+into belly!
+
+Bench easy.
+
+Deads easy, still with good setup (not moving shins too far forward).
+
+First time doing prowler! Fun and challenging.
