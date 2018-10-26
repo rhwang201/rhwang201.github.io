@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup prowler
+---
+
+Squat       :   215x5x3
+
+Bench       :   195x3x5
+
+Deadlift    :   290x5
+
+Pullup      :   90x3;45x6,6,5
+
+Prowler     :   45x6
+
+### Notes
+
+Alright day, form not perfect. Sleep not great last two nights. Squats easy, but could
+work on form better (sit down first, then back).
+
+Bench pretty easy, means I need a spotter to be more aggressive.
+
+Got deads easily, but form a little off.
