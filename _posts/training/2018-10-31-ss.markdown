@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x7x3;155x7x3
+
+Bench       :   175x6x3
+
+Deadlift    :   285x5
+
+Pullup      :   35x5x3;0x5x3
+
+### Notes
+
+Bad rest (drinking + sleep), but mostly weak lower back impacting day. Squats alright,
+kept them light. Main thing is to move knees forward during top of movement, then _lock
+them in place around hole_.
+
+Bench easy, make sure using chest.
+
+Deads alright.
+
+Pullups easy.
