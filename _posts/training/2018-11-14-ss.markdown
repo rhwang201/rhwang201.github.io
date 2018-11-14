@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   190x5x3;135x7x3
+
+Bench       :   175x6x3
+
+Deadlift    :   290x5
+
+Pullup      :   35x6,6,5
+
+### Notes
+
+Alright day. Squats still take a while to warm up. Light volume at the end has really
+good form.
+
+Rest easy.
