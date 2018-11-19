@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   200x5x3
+
+Bench       :   190x5,5,4;135x7
+
+Deadlift    :   295x5
+
+Pullup      :   60x5,5,4,4;0x7
+
+### Notes
+
+Good day! Tucked pelvis for squats.
+
+Rest good.
