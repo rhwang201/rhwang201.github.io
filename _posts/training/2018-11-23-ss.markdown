@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup backextension
+---
+
+Squat       :   205x5x3
+
+Bench       :   180x7x3
+
+Deadlift    :   300x5
+
+Pullup      :   80x3x3;35x7
+
+Back Extension  :   25x10x3
+
+### Notes
+
+Good day. Squats easy. Extended upper back to set rack. Tucked pelvis _and_ kept back
+tight on descent, so knees didn't move.
+
+Bench easy, five or six with one breath.
+
+Deads good! Neck back helped a lot.
