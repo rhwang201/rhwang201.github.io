@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   215x5x3
+
+Bench       :   190x5x3;165x5
+
+Deadlift    :   305x5
+
+Chinup      :   60x5,5,4,3
+
+### Notes
+
+Good day. Start running on Wednesday for cardio? Squats were strong, back tight. Can
+progress.
+
+Bench easy.
+
+Deads good.
