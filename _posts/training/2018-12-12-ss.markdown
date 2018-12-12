@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift bench chinup run prowler
+---
+
+Run         :   1 mile 8:30, 0.75 mile faster, 0.5 mile faster
+
+Deadlift    :   275x2
+
+Bench       :   175x5x3
+
+Chinup      :   45x5x3
+
+Prowler     :   0x6
+
+
+### Notes
+
+Back not okay for deadlifts. Not warmed up, but also may have tweaked on Monday.
