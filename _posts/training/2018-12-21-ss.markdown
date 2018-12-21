@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   220x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   315x5
+
+Chinup      :   70x4x3
+
+### Notes
+
+Not a bad day actually. Squat form a lot better. Big breath, knees out, sit back,
+maintain back angle. Could've had a tighter back.
+
+Bench alright.
+
+Alternate grip on all reps for dead.
+
+Chins easy.
