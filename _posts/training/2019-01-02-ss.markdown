@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   215x5x3
+
+Bench       :   190x5,5,4;175x5
+
+Deadlift    :   325x5
+
+Chinup      :   55x5x3;35x5
+
+### Notes
+
+Good day. Squats are better. Keep weight over midfoot.
+
+Bench was alright, good grip.
+
+Deads really good, back is tight and pulling well.
