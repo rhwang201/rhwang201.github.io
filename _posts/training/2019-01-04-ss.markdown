@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   195x7x3
+
+Bench       :   180x7,7,6;155x7
+
+Deadlift    :   275x5x3
+
+Chinup      :   35x7,6,4,4
+
+### Notes
+
+Volume day. Squats are better. Big breath, knees out, chest up.
+
+Bench not bad. Palm placement not perfect, but squeezing the bar.
+
+Deads good.
