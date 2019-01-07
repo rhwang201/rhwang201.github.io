@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   220x5x3
+
+Press       :   130x5,4,4;115x5
+
+Power Clean :   155x3x5
+
+Dip         :   90x5,4,3
+
+
+### Notes
+
+Brace abs more on squats (flex anterior side).
