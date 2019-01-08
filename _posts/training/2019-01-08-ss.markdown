@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run bench deadlift chinup
+---
+
+Run         :   1 mile 6mph, 1 mile 8mph, 1 mile 8.5mph, 0.5mile 10mph
+
+Bench       :   175x5x3
+
+Deadlift    :   330x1
+
+Pullup      :   25x6x3
+
+### Notes
+
+Running is a lot better, the "fast" miles were "easy".
+
+Oops, probably should've pushed a little more on bench.
+
+Should not do deadlifts on run days. Glutes don't feel good.
