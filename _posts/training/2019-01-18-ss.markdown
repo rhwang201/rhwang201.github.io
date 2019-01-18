@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   195x5x3
+
+Deadlift    :   335x5
+
+Chinup      :   65x5,4,4;45x5
+
+### Notes
+
+Good day. Decided to get some volume in on Friday, since Wednesdays are now running.
+Squats pretty good, using hips to get into hole.
+
+Bench good. Holding breath for 4 reps, could be a bit more even.
+
+Deads good, but hard. Make sure weight is back on the first rep of a set.
