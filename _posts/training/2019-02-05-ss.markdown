@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run bench chinup
+---
+
+Run         :   1 mile 6mph, 15 min 8mph, 0.25 mile 6mph
+
+Bench       :   155x7x5
+
+Chinup      :   25x9,9,6,5
+
+### Notes
+
+Running killed me haha. Was hard, but did it.
