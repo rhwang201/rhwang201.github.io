@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   235x5x3
+
+Bench       :   195x5x3
+
+Deadlift    :   340x4;315x3
+
+Chinup      :   65x5,4,4
+
+### Notes
+
+Very bad sleep this weekend (Hawaii). Squats not bad, just need to keep back angle
+constant.
+
+Bench better.
+
+Tired on deads.
