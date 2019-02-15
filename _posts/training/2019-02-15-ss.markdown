@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   185x5x5
+
+Deadlift    :   325x5
+
+Chinup      :   35x7,6,5
+
+### Notes
+
+Squat form pretty bad ("failed" 240). Got a bit distracted by an aggressive gym-goer.
+
+Bench was ok, could be a bit lower
+
+Deads good
