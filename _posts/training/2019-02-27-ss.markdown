@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   305x5
+
+Chinup      :   55x5,5,4,4
+
+### Notes
+
+Squat was okay. Think a couple massages in Taiwan affected mobility in a good way. Not
+bad, keeping it light for first day back.
