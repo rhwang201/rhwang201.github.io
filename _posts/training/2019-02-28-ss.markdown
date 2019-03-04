@@ -1,0 +1,15 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run press dip
+---
+
+Run         :   1 mile 6mph, 15 minute 8mph
+
+Press       :   115x5x3
+
+Dip         :   55x5x3
+
+### Notes
+

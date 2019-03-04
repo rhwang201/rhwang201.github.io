@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   225x5x3
+
+Press       :   125x5x3
+
+Power Clean :   165x3x5
+
+Dip         :   90x5,4,4
+
+
+### Notes
+
+Bad sleep most of weekend, so bad workout. Hold on everything, watch form.
