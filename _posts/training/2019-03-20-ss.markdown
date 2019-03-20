@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run press dip bench
+---
+
+Run         :   1 mile 6mph, 15 minute 8mph, 0.25 mile 6mph
+
+Press       :   105x5x3
+
+Dip         :   45x5x3
+
+Bench       :   135x5x3
+
+### Notes
+
+Run pretty easy, a bit over two miles.
