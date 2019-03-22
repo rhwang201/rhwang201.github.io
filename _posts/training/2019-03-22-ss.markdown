@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   205x5x3;135x5x3
+
+Bench       :   190x5x3
+
+Deadlift    :   295x5
+
+Chinup      :   90x2x3
+
+### Notes
+
+Okay. Back needs to be tighter in squats, maybe warm up a little more.
+
+Bench was a little suspect for first two sets, stay tight
