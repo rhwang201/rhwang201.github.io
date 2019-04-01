@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   215x5x3
+
+Bench       :   195x4x4
+
+Deadlift    :   305x5;225x5
+
+Chinup      :   55x5x5
+
+### Notes
+
+Need more tension on everything. Upper back tight on squats to maintain back angle. Nice
+chins.
