@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run press dip backextension
+---
+
+Run         :   1 mile 7mph, 15 minute 8.3mph, 0.25 mile 7mph
+
+Press       :   105x7x3
+
+Dip         :   45x6x3
+
+Back Extension  :   35x12x3
+
+### Notes
+
+Running good (8.2mph, 8.3mph, 8.4mph)
