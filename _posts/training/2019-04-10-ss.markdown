@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run bench chinup backextension
+---
+
+Run         :   1 mile 7mph, 1 mile 9.1mph, 1 mile 9.2mph, 0.25 mile 7mph
+
+Bench       :   165x5x3
+
+Pullup      :   35x5x3
+
+Back Extension  :   45x10x3
+
+### Notes
+
+Good
