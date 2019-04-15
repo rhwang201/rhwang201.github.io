@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   190x5x3
+
+Deadlift    :   315x5
+
+Chinup      :   60x5x5
+
+### Notes
+
+Meh on everything, except chins. Need more tension on squats, not using quads?
