@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   215x6x3
+
+Bench       :   175x7x3
+
+Deadlift    :   320x5
+
+Chinup      :   90x2x2;45x7
+
+### Notes
+
+Alright day. Squats still need to get pelvis back more. Watch back on squats.
