@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   215x5x3
+
+Press       :   125x5,5,4
+
+Power Clean :   155x3x5
+
+Dip         :   80x5x3
+
+
+### Notes
+
+Backcountry, not the best recovery. Squats better, focusing on hips.
