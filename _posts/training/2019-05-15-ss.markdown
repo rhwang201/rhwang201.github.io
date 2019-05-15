@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: row bench chinup backextension
+---
+
+Row         :   15min
+
+Bench       :   155x5x5
+
+Chinup      :   35x5x3
+
+### Notes
