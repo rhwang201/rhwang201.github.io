@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: press dip curl
+---
+
+Press       :   115x5x3
+
+Dip         :   55x5x3
+
+Curl        :   20x11x3
+
+### Notes
