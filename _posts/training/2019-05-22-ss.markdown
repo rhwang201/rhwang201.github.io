@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run press dip
+---
+
+Run         :   1mile 8.7mph, 1mile 8.8mph
+
+Press       :   105x5x3
+
+Dip         :   45x5x3
+
+### Notes
