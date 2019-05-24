@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup bike curl
+---
+
+Squat       :   155x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   275x5
+
+Chinup      :   55x5x3
+
+Bike        :   10min
+
+Curl        :   20x12,12,10
+
+### Notes
+
+Knees forward first, then hips in the hole, for squat
