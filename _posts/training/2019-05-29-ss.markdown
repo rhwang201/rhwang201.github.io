@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run bench chinup
+---
+
+Run         :   15min 8.4mph
+
+Bench       :   165x5x3
+
+Pullup      :   25x7x3
+
+### Notes
