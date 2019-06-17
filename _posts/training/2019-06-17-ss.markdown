@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   205x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   295x5
+
+Chinup      :   60x5x3
+
+### Notes
+
+Everything pretty good today. "Elbows down" for squats.
+
+Deads easy with the rough-knurled bar.
