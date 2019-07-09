@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run squat bench chinup
+---
+
+Run         :   15 min 8.8mph
+
+Squat       :   175x5x3
+
+Bench       :   155x7x3
+
+Pullup      :   35x6,6,4
+
+### Notes
+
+Full night's sleep, felt really refreshed. Run pretty good, everything else meh.
