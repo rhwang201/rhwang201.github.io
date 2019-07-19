@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   205x5x3
+
+Bench       :   175x7x3
+
+Deadlift    :   295x5
+
+Chinup      :   55x5,5,5,3
+
+### Notes
+
+Decent day, going for volume and form. Squats alright, focused on hips. Bench good,
+focused on bar following elbows. Deads strong. Tired for chins.
