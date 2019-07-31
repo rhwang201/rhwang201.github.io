@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Front Squat :   145x5x3
+
+Bench       :   155x7x3
+
+Deadlift    :   225x7x3
+
+Chinup      :   25x7,5,5
+
+### Notes
+
+Adding in high-volume front squats to help with skiing. A bit imbalanced in hole.
