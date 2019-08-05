@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   205x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   285x5
+
+Chinup      :   65x5,5,4
+
+### Notes
+
+Everything alright. Squats: breath, concave, hips on ascent, head back.
+
+Squeeze for bench.
+
+Finished with cossack squats. Hamstring not very flexible by squatting leg getting
+better.
