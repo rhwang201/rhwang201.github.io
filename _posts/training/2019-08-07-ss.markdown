@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run squat press bench
+---
+
+Run         :   1 mile 9.2mph, 1 mile 9.3mph
+
+Squat       :   155x6x3
+
+Press       :   105x6x3
+
+Bench       :   135x6x3
+
+### Notes
+
+Second mile tiring.
