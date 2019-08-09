@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   210x5x3
+
+Bench       :   190x5x3
+
+Deadlift    :   290x5
+
+Chinup      :   90x2x3
+
+### Notes
+
+Alright day. Looking down on squats, can be tighter in hole.
+
+Bench was hard, but got it.
