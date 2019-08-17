@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench pullup
+---
+
+Squat       :   165x8x3
+
+Bench       :   155x8,8,76x3
+
+Pullup      :   0x10,8,7
+
+### Notes
+
+Volume day, okay. Can be tighter. Cossacks getting better.
