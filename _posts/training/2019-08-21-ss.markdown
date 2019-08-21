@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip
+---
+
+Squat       :   165x8x5
+
+Press       :   105x7,7,6
+
+Dip         :   0x12,12,10
+
+### Notes
+
+Oops, didn't run. Volume day, everything pretty good.
