@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup
+---
+
+Squat       :   165x10x3
+
+Bench       :   155x8x3
+
+Chinup      :   25x9,7,7
+
+### Notes
+
+Late log.
