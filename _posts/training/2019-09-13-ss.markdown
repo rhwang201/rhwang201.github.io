@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   220x5x3
+
+Press       :   125x5,4,3
+
+Power clean :   155x3x5
+
+Dip         :   115x1x3
+
+### Notes
+
+Not a great day, go lighter on squats, be more aggressive with cleans.
