@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip legblaster
+---
+
+Squat       :   205x5x3
+
+Press       :   105x5x3
+
+Dip         :   55x5x3
+
+Leg blaster :   10
+
+### Notes
+
+Squats not bad.
+
+MLB good, kept it to 30s rest, a bit intra-set btwn dynamic movements. Can probably
+repeat one more time.
