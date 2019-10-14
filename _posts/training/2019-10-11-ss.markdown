@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   195x3x3
+
+Deadlift    :   285x5
+
+Chinup      :   90x3x3
+
+Leg blaster :   0x10
+
+### Notes
+
+Late post.
