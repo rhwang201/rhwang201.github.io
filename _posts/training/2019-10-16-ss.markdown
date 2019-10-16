@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup legblaster
+---
+
+Squat       :   210x5x3
+
+Bench       :   175x5x3
+
+Chinup      :   45x5x3
+
+Leg blaster :   2 full, 6 mini
+
+### Notes
+
+Good day.
+
+Realized was doing too many jump squats for MLBs.
