@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup legblaster
+---
+
+Squat       :   240x5x3
+
+Bench       :   190x5x3
+
+Deadlift    :   290x5
+
+Chinup      :   65x5,4,3
+
+Leg blaster :   3 full, 4 mini
+
+### Notes
+
+Squats hard, losing back angle on ascent. Don't progress.
+
+Bench good, stayed tight.
+
+Deads easy
