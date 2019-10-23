@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press dip legblaster
+---
+
+Squat       :   215x5x3
+
+Press       :   115x5,5,4
+
+Dip         :   0x12,10,10
+
+Leg blaster :   3 full, 4 mini
+
+### Notes
+
+NYC workout. First set squats not good. Stay tight in legs, don't rack too low on back.
+
+
