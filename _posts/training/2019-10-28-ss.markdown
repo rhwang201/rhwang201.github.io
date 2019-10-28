@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   230x5x3
+
+Press       :   120x5x3
+
+Power clean :   165x3x5
+
+Dip         :   75x5,5,3
+
+### Notes
+
+Meh day, might've been too aggressive with lifts. Squats were shitty, bad mobility. Not
+tight.
+
+Press was good actually.
+
+Power cleans meh, get a cleaner rack. Get a more consistent setup.
