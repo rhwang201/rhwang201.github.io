@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup legblaster
+---
+
+Squat       :   205x5x3
+
+Bench       :   170x5x3
+
+Chinup      :   45x5x3
+
+Leg blaster :   4 full, 2 mini
+
+### Notes
+
+Okay day, legs in squat could be tighter, bottom position not perfect.
