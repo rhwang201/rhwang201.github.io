@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   225x5x3
+
+Bench       :   190x5,5,4;165x5
+
+Deadlift    :   295x5
+
+Chinup      :   60x5,4,4;45x4
+
+### Notes
+
+Rough day...maybe not eating enough? Squats felt heavy, form was not good.
+
+Bench alright, deads good, arms tired for chins.
