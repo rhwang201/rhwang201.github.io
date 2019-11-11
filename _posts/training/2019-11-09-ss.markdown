@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift chinup legblaster
+---
+
+Deadlift    :   300x5
+
+Chinup      :   45x5,4,3
+
+Leg blaster :   5 full
+
+### Notes
