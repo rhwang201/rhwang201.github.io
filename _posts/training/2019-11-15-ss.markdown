@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   225x5x3
+
+Press       :   135x2;115x5
+
+Power clean :   185x1x3
+
+Dip         :   105x2,2,1
+
+### Notes
+
+Squats bad, uneven weight, reset, don't move forward.
+
+Two full cleans.
