@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   215x5x3
+
+Bench       :   185x5x3
+
+Deadlift    :   305x5
+
+Chinup      :   55x5,5,4,3
+
+### Notes
+
+Meh day, not very strong, also probably woke up in middle of sleep cycle. Squats still
+not great, keep it light. Think about three points of contact on foot.
+
+Bench alright, probably uneven left/right.
+
+Deads easy, thinking about foot contact.
