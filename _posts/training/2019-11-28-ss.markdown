@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   205x5x5;135x5
+
+Press       :   115x5x5
+
+Power clean :   175x3x3;135x5
+
+Dip         :   100x2x3;55x7
+
+### Notes
+
+Good day! Three points of contact for squat, breathe into bottom position stretch during
+warmup.
+
+Press good.
+
+Power cleans good, think the nice bars really do make a difference.
