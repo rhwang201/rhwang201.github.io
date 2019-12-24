@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   165x5x3
+
+Bench       :   155x5x3
+
+Deadlift    :   225x5
+
+Pullup      :   25x5x3
+
+### Notes
+
+First day back after illness, pretty weak. Good foot position on squats, make sure to
+get the chest up before unracking.
