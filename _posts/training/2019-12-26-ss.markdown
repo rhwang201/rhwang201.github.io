@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   185x5x3
+
+Bench       :   165x5x3
+
+Deadlift    :   255x5
+
+Chinup      :   35x5x3
+
+### Notes
+
+Decent. Three points of contact for squat, don't move forward in the hole.
+
+Bench alright, grip tighter to get wrist in good position.
