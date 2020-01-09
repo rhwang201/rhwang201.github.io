@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup pulldown
+---
+
+Squat       :   80kgx5x3
+
+Bench       :   75kgx5x3
+
+Deadlift    :   110kgx5
+
+Chinup      :   35x5x3
+
+Tricep pulldown :   27.5x8,10,10
+
+### Notes
+
+Back from sickness, kept everything light. Careful with shoulder on bench.
