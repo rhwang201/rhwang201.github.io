@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup skullcrusher
+---
+
+Squat       :   195x5x3
+
+Bench       :   185x4x4
+
+Deadlift    :   265x5
+
+Chinup      :   35x7,5,4
+
+Skullcrusher    :   40x10x3
+
+### Notes
+
+Squats were a bit off to start, maybe biking got body in a weird state. Weight wasn't
+centered over midfoot. Got better on last set after you gripped the floor.
+
+Bench was meh. Messed up last warmup (it was heavier than working set), also wasn't
+feeling strong/confident.
+
+Deads alright, grip is a bit weak.
