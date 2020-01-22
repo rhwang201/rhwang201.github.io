@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup skullcrusher
+---
+
+Squat       :   205x5x3
+
+Bench       :   170x5x3
+
+Deadlift    :   270x5
+
+Chinup      :   25x7,7,6
+
+Skullcrusher    :   40x11x3
+
+### Notes
+
+Pretty good day, squats getting heavy, but alright. First set is a bit forward, but
+latter sets are okay.
+
+Bench alright, need to grip tighter.
+
+Deads good and easy.
