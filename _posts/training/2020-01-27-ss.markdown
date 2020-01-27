@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup skullcrusher legblaster
+---
+
+Squat       :   200x5x3
+
+Bench       :   185x4x3
+
+Deadlift    :   275x5
+
+Chinup      :   45x5,5,3
+
+Skullcrusher    :   50x8x3
+
+Leg blaster :   3 full
+
+### Notes
+
+Squat form is off, need to reset.
+
+Not going for it on bench w/o a spotter.
+
+Deads easy.
