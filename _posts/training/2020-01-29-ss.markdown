@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip curl
+---
+
+Squat       :   190x5x3
+
+Press       :   110x5x3
+
+Power clean :   150x5x3
+
+Dip         :   45x5x3;25x10
+
+Barbell curl    :   45x12,12,8
+
+### Notes
+
+Kept it light. Squats better. Main insight is to make sure weight is centered _before_
+beginning descent, while just standing with the weight. Also, your imbalance varies
+daily, need to be adaptive (ie, today, had to focus pretty far "back").
+
+Press heavy, but fine.
+
+Exhausted for cleans, last one was a full clean. Overall not bad, think about rapidly
+changing back angle for second pull
