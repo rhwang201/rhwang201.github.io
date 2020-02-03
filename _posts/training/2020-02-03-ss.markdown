@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press powerclean dip
+---
+
+Squat       :   195x5x3
+
+Press       :   120x5x3
+
+Power clean :   155x5x3
+
+Dip         :   70x5,5,4
+
+### Notes
+
+Squats not bad, rack setup is good. Big breath, chin down.
+
+Press tiring, but got it. Use chalk, probably start microloading
+
+Cleans alright
