@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup
+---
+
+Squat       :   205x5x3
+
+Bench       :   175x5x3
+
+Deadlift    :   285x5
+
+Chinup      :   35x5x3
+
+### Notes
+
+Stomach issue over the weekend, so barely ate. Held weight constant. Squats okay, thought
+definitely uneven in the hole at times.
+
+Bench okay, touching chest more controlled now ("glass").
+
+Deads easy still, "head back".
