@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench deadlift chinup skullcrusher
+---
+
+Squat       :   195x5x3
+
+Bench       :   180x5x3
+
+Deadlift    :   295x5
+
+Chinup      :   80x2x3
+
+Skullcrusher    :   50x10,10,8
+
+### Notes
+
+Squats still entirely meh, not staying even over midfoot. Glad I'm seeing a trainer.
+
+Bench not bad, it's okay to go a little faster.
+
+Deads good, alternate grip.
