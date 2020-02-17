@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: hangpowersnatch hangpowerclean slowpull pushpress frontsquat squat dip
+---
+
+Hang power snatch   :   65x3x5
+
+Hang power clean    :   135x3x5
+
+Slow pull   :   195x3x3
+
+Squat       :   210x5x3
+
+Push press  :   120x3x5
+
+Front squat :   165x3x3
+
+Squat       :   185x3x3
+
+Dip         :   65x5x3
+
+### Notes
+
+Also did some overhead.
