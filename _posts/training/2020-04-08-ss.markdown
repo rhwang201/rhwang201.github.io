@@ -1,0 +1,19 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch clean squat bench
+---
+
+Power snatch from knees   :   55x3x5
+
+Power clean from knees    :   95x3x5
+
+Squat   :   165x5x3
+
+Bench   :   135x5x3
+
+
+### Notes
+
+Initiate squats with "hips back".
