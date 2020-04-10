@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch clean press squat chinup
+---
+
+Hang power snatch   :   65x3x5
+
+Hang power clean    :   125x3x5
+
+Press   :   105x5x3
+
+Squat   :   175x5x3
+
+Chinup  :   0x9,9,7
+
+
+### Notes
+
+Everything fine, squat form pretty good.
