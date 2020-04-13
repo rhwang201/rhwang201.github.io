@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch clean squat bench chinup
+---
+
+Hang power snatch   :   75x3x5
+
+Hang power clean    :   130x3x5
+
+Squat   :   185x5x3
+
+Bench   :   155x5x3
+
+Chinup  :   25x5x3
+
+
+### Notes
+
+Internally rotate arms for snatch and clean.
+
+Squat good, initiate with hips back, big breath, flex back hard
+
+Bench and chin good.
