@@ -1,0 +1,32 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch clean slowpull press squat ohs curl
+---
+
+Hang power snatch   :   85x3x5
+
+Hang power clean    :   135x3x5
+
+Slow pull   :   200x3x3
+
+Press   :   115x5x3
+
+Squat   :   205x5x3
+
+OHS     :   0x3x5
+
+Curl    :   0x11x3
+
+
+### Notes
+
+Oly alright. Bar path probably not great for snatch, catching off balance. For both,
+shoulders back, lats tight.
+
+Slow pull mostly good, stay on midfoot for second pull.
+
+Press good.
+
+Squat good, also watch foot balance.
