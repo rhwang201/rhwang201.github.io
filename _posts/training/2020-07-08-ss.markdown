@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch cleanpull snatchpull bench frontsquat chinup
+---
+
+Power snatch    :   110x2,2,1,1
+
+Segment snatch pull :   135x3x3
+
+Clean pull  :   185x3x3
+
+Bench   :   155x7x3
+
+Front squat :   165x3x3
+
+Chinup  :   45x6,6,5
+
+
+### Notes
+
+Snatch mehhh, no umph.
+
+Snatch pull form feels good, but in general the pulls don't seem to transfer technique...
+
+Bench good.
