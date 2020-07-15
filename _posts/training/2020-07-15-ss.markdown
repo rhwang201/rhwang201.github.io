@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch clean bench squat curl
+---
+
+Snatch pull :   85x3x3
+
+Clean pull  :   190x3x3
+
+Bench   :   155x8x3
+
+Squat   :   205x5x3
+
+Curl    :   55x12x3
+
+
+### Notes
+
+Snatch form a lot better now I think, key insight is that arms will be less vertical when
+the bar is above the knees/when the shins are vertical. This keeps the bar close to the
+body and lets you get into the power position without rowing as much.
+
+Wrists still a little suspect for clean rack position, so just pulls.
+
+Squats started off meh, but finished better.
