@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean press squat chinup
+---
+
+Power clean :   155x3x5
+
+Press   :   105x5x3
+
+Squat   :   185x5x3
+
+Chinup  :   25x5x3
+
+### Notes
+
+Might want to start slowing down progression. 2x at a weight for cleans? Make sure to have a clean rack, banging against clavicle a bit.
+
+Squat not bad, 3/1/0 during warmups is helpful
