@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   5.27 mile
+
+### Notes
+
+First long run in a while, 8'40" average; 8'22", 8'13", 8'32", 9'02", 9'02" splits
