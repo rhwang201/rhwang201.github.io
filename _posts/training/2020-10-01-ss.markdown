@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   200mx6
+
+### Notes
+
+"200"s on Townsend. A little more consistent at high 30s, though last one was tough because of stomach
