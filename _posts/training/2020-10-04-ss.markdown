@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean press squat chinup
+---
+
+Power clean :   160x3x3
+
+Press   :   110x5,5,4
+
+Squat   :   190x5x3
+
+Chinup  :   30x5x3
+
+### Notes
+
+Late post
