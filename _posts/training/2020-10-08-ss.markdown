@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   200mx6
+
+### Notes
+
+"200"s on Townsend, pretty good and consistent, all between 38" and 40". Last one was killer, good job pushing
