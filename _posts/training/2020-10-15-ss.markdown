@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   200mx6
+
+### Notes
+
+"200"s on Townsend. Splits were something like 35, 38, 38, 38, 39, 42. Really died on that last one, plenty of lactic acid buildup
