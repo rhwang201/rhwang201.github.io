@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: run
+---
+
+Run :   ?
+
+### Notes
+
+"Low and slow", new loop around Mission Bay. Was pretty
