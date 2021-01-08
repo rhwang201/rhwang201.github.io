@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: pistol turkishgetup boxjump row
+---
+
+Pistol  :   0x4x5
+
+Turkish Get Up   :   30x3x3
+
+Box Jump   :   42inx3x5
+
+Row      :  45x12x3
+
+### Notes
+
+Supersetted pistols with TGH, both are fine
+
+Box jump had an additional 25lb plate. Some reps weren't clean, and you aren't landing with your weight even (backwards), so can probably repeat.
+
+Did a supine machine thing for rows. Can probably do close grip bench or stuff if you want hypertrophy, wasn't very interested
