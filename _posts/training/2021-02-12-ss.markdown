@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: pistol turkishgetup boxjump bench chinup
+---
+
+Box Jump   :   115cmx3x3
+
+Pistol  :   0x5x3
+
+Turkish Get Up   :   35x3x3
+
+Bench    :  135x7x3
+
+Pullup    : 25x6x3
+
+### Notes
+
+Box jump was hard, only really got a few reps. Repeat
+
+Pistol/TGU superset fine, could feel obliques during TGU
+
+Rest for hypertrophy
