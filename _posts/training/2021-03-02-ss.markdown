@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: Run
+---
+
+Run : like an hour, ~5 miles
+
+### Notes
+
+around tahoe
