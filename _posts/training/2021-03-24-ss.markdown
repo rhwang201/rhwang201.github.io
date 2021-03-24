@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: Run
+---
+
+Run : to ferry building and back
+
+### Notes
+
+Low and slow, better than last time. Around 50min I think
