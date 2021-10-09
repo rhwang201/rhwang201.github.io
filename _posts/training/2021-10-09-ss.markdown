@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean ohs chinup pistol dip boxjump
+---
+
+Clean : 185x2x5
+
+Overhead Squat  : 115x3x3;95x3x2
+
+Pullup  :  25x5x3
+
+Pistol  : 0x7x3
+
+Dip   : 35x7x3
+
+Box jump : 105cmx3x5
+
+### Notes
+
+Cleans fine, no platform
+
+Conservative w/ OHS but fine. One pause set at the end
+
+Everything else fine
