@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch pushpress frontsquat dip
+---
+
+Snatch :   110x2;105x2x2
+
+Push press  : 145x2,2,1;135x3
+
+Front squat   :   215x3;210x2x2
+
+Dip      :   80x5,4,4
+
+### Notes
+
+Numbers approximate. You got in a bad mood because your warmup routine was disrupted (waiting for a rack). DOn't progress anything obviously
