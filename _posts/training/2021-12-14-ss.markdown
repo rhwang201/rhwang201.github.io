@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: snatch pushpress frontsquat dip
+---
+
+Snatch :   110x2x3
+
+Push press  : 147.5x3,3,2
+
+Front squat   :   215x3x3
+
+Dip      :   75x5x3
+
+### Notes
+
+Need more confidence on snatch, missing warmups. Full extension, under quick
