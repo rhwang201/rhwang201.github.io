@@ -1,0 +1,18 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean press squat chinup
+---
+
+Clean :   175x3x3
+
+Press   :   105x5x3
+
+Squat   :   195x5x3
+
+Chinup  :   55x5x3
+
+### Notes
+
+Not 100%, all lifts okay though
