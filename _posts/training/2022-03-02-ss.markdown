@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat bench deadlift dip woodchopper curl
+---
+
+Front squat :   185x3x3
+
+Bench   :   135x9x3
+
+Deadlift   :   225x5x3
+
+Dip  :   55x5x3
+
+Woodchopper : 22.5x9x3
+
+Curl  : 17.5x5x3
+
+### Notes
+
+Changing up the program, going for more general athleticism, less Oly-specific. Still need to figure out exact program
+
+Front squats good
+
+Bench alright, easy with the right shoulder
+
+Deads fine, make sure to keep the movement separate in your mind from cleans
+
+Everything else fine
