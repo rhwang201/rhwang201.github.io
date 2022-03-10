@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup
+---
+
+Squat : 185x5x3
+
+Bench : 135x10x3
+
+Chinup  : 60x5x3
+
+Lateral raise : 10x12x3
+
+DB row  : 45x12x3
+
+### Notes
+
+Fine, getting back from NASTC, also have a thumb injury
+
+Some Heidens for fun too, felt them in my glutes
