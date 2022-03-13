@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift frontsquat row dip
+---
+
+Deadlift  : 225x5x3
+
+Front squat : 185x3x3
+
+Pendlay row : 135x9x3
+
+Dip : 55x5x3
+
+Lat pulldown  : 70x12x3
+
+### Notes
+
+NYC
