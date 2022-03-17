@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift press frontsquat row
+---
+
+Deadlift  : 225x10x3
+
+Press : 95x8,8,7
+
+Front squat : 185x3x3
+
+Pendlay row : 145x6x3
+
+Machine fly : 70x15x3
+
+Curl  : 20x12x3
+
+### Notes
+
+NYC
