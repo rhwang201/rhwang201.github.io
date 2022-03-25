@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench
+---
+
+Squat : 185x5x3
+
+Bench : 135x5x5
+
+Dumbbell row  : 50x10x3
+
+Dumbbell incline bench  : 40x10x3
+
+Lat pulldown  : 70x6x3
+
+Farmer's walk : 62
+
+### Notes
+
+Pause squats and bench
+
+Rows easy, pulldowns hard (double pulley)? Farmer's walk hard walked around the back area of the gym
+
+Some heidens/banded lateral exercises at the end
