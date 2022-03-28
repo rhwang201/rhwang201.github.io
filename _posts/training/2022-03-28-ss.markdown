@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench chinup
+---
+
+Squat : 195x5x3
+
+Bench : 155x5x5
+
+Chinup  : 65x5x3
+
+Bulgarian split squat : 45x9x3
+
+Dumbbell press  : 40x9x3
+
+Curl : 22.5x10x3
+
+### Notes
+
+Good day, can progress everything
