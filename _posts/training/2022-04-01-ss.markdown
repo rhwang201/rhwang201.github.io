@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench
+---
+
+Squat : 175x7x3
+
+Bench : 135x9x5
+
+Deadlift  : 205x9x3
+
+Dumbbell incline bench  : 40x12x3
+
+Dumbbell row  : 50x12x3
+
+Tricep extension  : 25x14x3
+
+Lat pulldown : 100x10x3
+
+### Notes
+
+Late post
