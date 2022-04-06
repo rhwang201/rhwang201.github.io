@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat press deadlift row dip
+---
+
+Front squat : 195x3x3
+
+Press : 120x5,5,4
+
+Deadlift  : 255x5x3
+
+Pendlay row : 145x9x3
+
+Dip : 75x5x3
+
+Cable crossover : 20x10x3
+
+Pullup  : 0x10,10,7,6,5
+
+
+### Notes
+
+Front squats pretty good, thinking "tripod" helped stay centered on the ascent
+
+Rows harder to keep strict
+
+Super-setted cable crossovers and pullups. Some banded work at the end (heavy band)
