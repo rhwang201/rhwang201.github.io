@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: press deadlift row dip
+---
+
+Press : 110x5x3
+
+Deadlift  : 235x5x5
+
+Pendlay row : 135x9x3
+
+Dip : 55x5x5
+
+Cable crossover : 20x10x3
+
+Chinup  : 0x10,6,6
+
+
+### Notes
+
+Right adductor strained for squats, so skipped
+
+Everything else fine. Rows a bit hard
