@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean bench deadlift
+---
+
+Clean : 155x1x3;175x1x3;135x1x3
+
+Bench : 135x9x3
+
+Deadlift  : 215x7x3
+
+Dumbbell incline bench  : 45x8x3
+
+Dumbbell row  : 55x9x3
+
+Tricep extension  : 35x9x3
+
+### Notes
+
+Workout around 2PM, still a bit full...
+
+Did clean complexes, since haven't done them in a while. Thumb fine during hook grip. First one was segment pull, power, full; second pull, full
+
+Everything fine
