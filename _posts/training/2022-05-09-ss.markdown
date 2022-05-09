@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean chinup
+---
+
+Squat : 165x5x3
+
+Bench : 145x5x3
+
+Power clean : 135x3x3;145x3x3
+
+Chinup  : 45x5x3
+
+Dumbbell press  : 40x9x3
+
+Dumbbell row : 55x10x3
+
+### Notes
+
+First day back after COVID
+
+Squatted in normal gym shoes, to get used to it for NYC
+
+For cleans worked up to 185x2, it was fine
