@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench press chinup dip
+---
+
+Bench : 155x5x5
+
+Press : 95x7x3
+
+Chinup  : 55x5x3
+
+Dip : 45x8,7,7
+
+Shrug : 235x8,9,9
+
+Curl  : 25x8x3
+
+### Notes
+
+Back still not great
+
+Everything pretty easy
