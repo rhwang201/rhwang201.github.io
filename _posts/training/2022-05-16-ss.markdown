@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat clean chinup
+---
+
+Squat : 165x5x3
+
+Press : 85x3
+
+Power clean : 155x3x3
+
+Chinup  : 55x5x3
+
+Shrug : 195x10x3
+
+Lat pulldown  : 42.5x15x3
+
+Tricep extension  : 35x9x3
+
+Curl  : 22.5x11x3
+
+### Notes
+
+Shoulder not great yet. Everything fine
