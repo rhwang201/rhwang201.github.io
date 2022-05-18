@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat squat deadlift
+---
+
+Front squat : 155x3x3
+
+Bench : 135x5x3
+
+Deadlift  : 225x5x3
+
+Pendlay row : 135x9x3
+
+Pullup  : 25x7x3
+
+Dumbbell row  : 55x11x3
+
+### Notes
+
+Everything fine, shoulder and back still a bit iffy...will see if this was too much
