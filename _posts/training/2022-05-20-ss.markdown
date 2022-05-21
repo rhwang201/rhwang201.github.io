@@ -1,0 +1,26 @@
+ ---
+layout: post
+title:  'Training'
+categories: training
+tags: clean press deadlift chinup
+---
+
+Power clean: 165x3x3
+
+Press : 105x5x3
+
+Deadlift  : 245x5x3
+
+Chinup  : 60x5x3
+
+Tricep extension  : 35x10x3
+
+Lat pulldown  : 50x10x3
+
+Box jump  : 105cmx3x3
+
+### Notes
+
+Mostly healed, right shoulder maybe 90%
+
+Everything fine
