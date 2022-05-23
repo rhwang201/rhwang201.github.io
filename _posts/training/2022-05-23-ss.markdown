@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean chinup
+---
+
+Squat : 175x5x3
+
+Bench : 145x5x3
+
+Power clean : 170x3x3
+
+Chinup  : 65x5x3
+
+Dumbbell press  : 40x9x3
+
+Dumbbell row  : 55x12x3
+
+### Notes
+
+Injuries mostly better, right shoulder maybe 80%
+
+Squats good, might've gotten a more upright chest with a different lat engagement
