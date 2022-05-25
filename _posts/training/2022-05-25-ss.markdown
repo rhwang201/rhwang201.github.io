@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat press deadlift dip
+---
+
+Front squat : 165x3x3
+
+Press : 95x5x3
+
+Deadlift  : 245x5x3
+
+Pendlay row : 135x9,10,10
+
+Dip : 45x5x3
+
+Curl  : 22.5x10x3
+
+Cable crossover : 20x11x3
+
+
+### Notes
+
+Shoulder still recovering, dips strained it the most. Think it's okay to have it moving though
+
+Everything else fine
