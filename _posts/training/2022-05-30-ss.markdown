@@ -1,0 +1,25 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean chinup
+---
+
+Squat : 195x5x3
+
+Bench : 155x5x3
+
+Power clean : 165x3x3
+
+Chinup  : 70x5,5,4
+
+Dumbbell press  : 40x10,10,6
+
+Dumbbell row  : 60x10x3
+
+
+### Notes
+
+Back a bit tweaked from sleeping at Nina's? Careful with squats. Depth good.
+
+Banging on power cleans, not sure if technique or equipment
