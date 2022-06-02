@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: 
+---
+
+Dumbbell bench  : 50x12x3, 35x15
+
+Dumbbell row  : 50x15x3
+
+Dumbbell press  : 40x9x3
+
+Pullup  : 0x7x3
+
+Cable crossover : 20x12x3
+
+Curl  : 50x12,12,8
+
+
+### Notes
+
+Hotel gym, everything fine.
