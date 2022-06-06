@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean
+---
+
+Squat : 195x5x3
+
+Power clean : 155x3x3
+
+Bench : 165x5x3
+
+Lat pulldown  : 85x12x3
+
+Dumbbell press  : 40x9x3
+
+Dumbbell row  : 60x11x3
+
+### Notes
+
+Squat a bit heavy, probably should've just done 185
+
+Cleans fine, bar was more of a powerlifting one
+
+Bench was heavy, careful there
+
+No belt for chins...
