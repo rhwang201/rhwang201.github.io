@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: 
+---
+
+Smith bench : 135x7,10,10
+
+Pullup  : 0x10,10,8,6
+
+Dumbbell bench  : 40x10,10,7,5
+
+Dumbbell press  : 45x7x3
+
+Cable row : 27.5x5x3
+
+Curl  : 25x9x3
+
+Tricep extension  : 32.5x12,12,9,5
+
+### Notes
+
+Hotel gym, some numbers might be off, late post
