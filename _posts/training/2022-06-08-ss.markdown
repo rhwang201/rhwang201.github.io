@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat press deadlift
+---
+
+Front squat : 175x3x3
+
+Press : 105x5x3
+
+Deadlift  : 245x5x3
+
+Pendlay row : 135x10x3
+
+Dip : 55x5x3
+
+Curl  : 50x11x3
+
+Dumbbell bench  : 50x12,12,9,7
+
+### Notes
+
+Front squats pretty easy, focused on not moving knees in the hole
+
+Press okay, shoulder improved but not perfect
+
+Rows a bit hard
+
+EZ bar for curls
