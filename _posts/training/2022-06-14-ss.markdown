@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean
+---
+
+Squat : 195x5x3
+
+Power clean : 160x3x3
+
+Bench : 165x5x3
+
+Chinup  : 65x5x3
+
+Dumbbell press  : 40x10x3
+
+Dumbbell row  : 60x12x3
+
+### Notes
+
+Late post, think bench hard, everything else alright
