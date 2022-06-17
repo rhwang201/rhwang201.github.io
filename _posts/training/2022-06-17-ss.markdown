@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat deadlift bench
+---
+
+Squat : 215x3x3
+
+Deadlift  : 265x5x3
+
+Bench : 175x2x3, 145x7x2
+
+Cable row : 50x12x3, 42.5x10
+
+Dumbbell press  : 50x5x3
+
+Forearm curls : 30x10x3
+
+### Notes
+
+Strength day. Deads easy, shoulder not great for bench. Cable rows fun, go lighter for forearm curls
