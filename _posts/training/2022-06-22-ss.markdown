@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat press deadlift
+---
+
+Front squat : 195x3x3
+
+Press : 115x5x3
+
+Deadlift  : 275x5x3
+
+Pendlay row : 145x7x3
+
+Dumbbell bench  : 55x9x3
+
+Curl  : 50x10x3
+
+Tricep extension  : 30x12,12,11
+
+### Notes
+
+Late post. Probably smaller jumps for front squats now. Did some ankle mobility
+
+Slow down increases on deadlift too?
+
+Forgot dips oops
