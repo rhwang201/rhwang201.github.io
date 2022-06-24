@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat deadlift bench chinup dip
+---
+
+Squat : 225x3x3
+
+Deadlift  : 295x5x3
+
+Bench : 155x7x3
+
+Chinup  : 60x6x3
+
+Dip : 55x5x3
+
+Cable row : 60x7x3
+
+Forearm curls : 25x15x3
+
+### Notes
+
+Heavy squats feel pretty good, good control
+
+Dead pretty good too. Feel some slack coming out of back, think it's fine
+
+Dips fine, keep the weight back
