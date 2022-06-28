@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat press deadlift
+---
+
+Front squat : 200x3x3
+
+Press : 120x4,4,4,3
+
+Deadlift  : 280x5x3
+
+Pendlay row : 145x8x3
+
+Dip : 60x5x3
+
+Curl  : 50x11x3
+
+### Notes
+
+Front squats good, focused on knees more forward
+
+Press hard. Did more external rotation at the bottom for a "bigger platform"
+
+Deads not bad, arms are more like ropes, though still occasionally shrugging at the top. Probably should start alternate grip
+
+Rows easy actually.
+
+Dips okay. Stay tight and "back"
