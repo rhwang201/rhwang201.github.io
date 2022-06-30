@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat deadlift
+---
+
+Squat : 225x3x4
+
+Deadlift  : 300x5
+
+Dumbbell bench : 55x10x3
+
+Machine row : 105x12x3
+
+Dumbbell press  : 50x5x3
+
+Curl  : 50x12,12,9
+
+Cable crossover : 70x12x3
+
+Tricep extension  : 100x12x3
+
+### Notes
+
+Lifting at Tracy's.
+
+Squat, deadlift pretty good actually. Maybe be a bit careful with core (from squats?)
+
+Units for a lot of stuff off obviously
