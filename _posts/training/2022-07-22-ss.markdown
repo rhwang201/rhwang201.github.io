@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat deadlift chinup
+---
+
+Squat : 235x3x3
+
+Pendlay row : 155x8x3
+
+Deadlift  : 315x5
+
+Power clean : 180x1x5
+
+Chinup  : 45x8,7,7,7,5
+
+Tricep extension  : 35x9x3
+
+Incline hammer curl : 25x10,10,8
+
+
+### Notes
+
+Squats good
+
+Clean complex - halting pull, pull, clean
