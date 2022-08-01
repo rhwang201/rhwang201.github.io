@@ -64,6 +64,13 @@ $(document).ready(function() {
             month = padNumber(d.month() + 1, 2),
             date = padNumber(d.date() + 1, 2);
 
+        // Weird off by one error, also behavior different locally vs deployed
+        var dateTest = moment(year + '-' + month + '-' + date);
+        if (!dateTest.isValid()) {
+            month = padNumber(d.month() + 2, 2);
+            date = '01';
+        }
+
         return {
           title: e.title,
           allDay: true,
