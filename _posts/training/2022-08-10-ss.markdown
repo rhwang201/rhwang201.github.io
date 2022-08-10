@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat deadlift
+---
+
+Front squat : 205x3x3
+
+Pendlay row : 155x9x3
+
+Deadlift  : 310x5x3
+
+Press : 75x5x3; 45x10x3
+
+Lat pulldown  : 60x11x3
+
+Curl  : 60x10,10,8,5
+
+### Notes
+
+Squats better than last week. Pretty easy, since you reset
+
+Rows fine, deads easy and good
+
+Maybe go for volume on presses. Some pain on working set
+
+Did some rehab. Banded W, full can (2.5x10x3), prone lateral raise (2.5x12x3)
