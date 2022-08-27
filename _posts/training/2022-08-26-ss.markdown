@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: 
+---
+
+Treadmill  : 12x3x30
+
+### Notes
+
+Surfed, walked, stretched
