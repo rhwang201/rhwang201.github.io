@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat deadlift
+---
+
+Front squat : 210x3x4
+
+Press : 75x10x3
+
+Deadlift  : 320x5x3
+
+Pendlay row : 155x12x3
+
+Machine bench : 45x12x3
+
+Curl  : 60x12x3
+
+Full can  : 5x13x3
+
+### Notes
+
+Front squats fine. Losing back angle a bit, but it's fine. Can progress.
+
+Careful with back on deads, really set it.
+
+Machine bench is nice.
