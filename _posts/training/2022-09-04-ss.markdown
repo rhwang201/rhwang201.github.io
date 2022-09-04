@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean deadlift chinup
+---
+
+Squat : 185x6x3
+
+Bench : 135x6x3
+
+Power clean : 175x1x3
+
+Deadlift  : 345x2
+
+Machine shoulder press : 50x7x3
+
+Chinup  : 25x8x3
+
+Full can : 5x14x3
+
+Incline machine bench : 35x9x3
+
+### Notes
+
+Rough day, hungover
