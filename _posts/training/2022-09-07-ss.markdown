@@ -1,0 +1,30 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: frontsquat deadlift
+---
+
+Front squat : 215x3,3,2
+
+Press : 85x5x3
+
+Deadlift  : 320x5x3
+
+Pendlay row : 165x7x3
+
+Machine bench : 55x7x3
+
+Curl  : 70x7x3
+
+Full can  : 5x15x3
+
+### Notes
+
+Front squats pretty hard, losing back tightness on ascent
+
+Press started off not great for the shoulder. Thinking about keeping wrists straight helped
+
+Deads fine. Fatigued for then, but can progress
+
+Everything else fine
