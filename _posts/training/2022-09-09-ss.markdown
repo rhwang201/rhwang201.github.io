@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat bench clean deadlift chinup
+---
+
+Squat : 225x3x3
+
+Machine bench : 55x9x3
+
+Deadlift  : 340x5
+
+Chinup  : 25x9x3
+
+Cable crossover : 20x12x3
+
+Incline curl  : 22.5x12x3
+
+Side external rotation  : 2.5x17x3
+
+### Notes
+
+Squats pretty good, ass back a bit before down
+
+Machine bench fine. Maybe throw in some different pushing exercises now
+
+Deads heavy but fine
