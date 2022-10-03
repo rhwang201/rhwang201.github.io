@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift bench chinup
+---
+
+Bench : 155x5x3
+
+Dumbbell row  : 34kgx7x3
+
+High-to-low : 70x15x3
+
+Chinup  : 0x12,10,6,4,4
+
+Bulgarian split squat : 100x5x3
+
+Lateral dumbbell raise  : 15x15x3
+
+Deadlift  : 355x5
+
+### Notes
+
+Didn't log some hotel workouts, mostly pushup-curl-squat-lunge-burpee circuits.
+
+Everything pretty good. BSS hard. High-to-low units probably way off... Ego lifted/didn't calculate correctly on deadlifts. Got it, but def a bit heavy/broke down form in lower back a bit
