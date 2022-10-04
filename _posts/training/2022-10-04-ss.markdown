@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 195x6x3
+
+Press : 90x5x3
+
+Incline curl  : 20x15,12,10
+
+Tricep extension  : 70x10,10,8
+
+Face pull : 80x20x3
+
+Lat pulldown  : 120x5x3
+
+### Notes
+
+Squat form pretty good, looking at mirror
+
+Shoulder still not great for press
