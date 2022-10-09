@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Pullup  : 15kgx7x3
+
+Dumbbell press : 17.5kgx7x3
+
+Incline curl  : 20x12x12x3
+
+Squat : 195x7x3
+
+Tricep extension  : 65x12,12,11
+
+### Notes
+
+Everything fine, squat form looks good in the mirror
