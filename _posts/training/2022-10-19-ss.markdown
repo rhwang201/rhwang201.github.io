@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 195x8x3
+
+Press : 90x7x3
+
+Pullup  : 15kgx8,7,7
+
+Incline curl  : 20x13x3
+
+Dumbbell bench  : 45x8x3
+
+### Notes
+
+Hung over, everything fine
