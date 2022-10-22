@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift bench chinup
+---
+
+Bench : 145x10x3
+
+Deadlift  : 320x5x3
+
+Chinup  : 0x12,10,9
+
+Machine pec fly : 27.5x15x3
+
+Curl : 25x11x3
+
+Lateral dumbbell raise  : 17.5x12x3
+
+### Notes
+
+Bench and deads good
+
+Weights probably wrong on curl?
