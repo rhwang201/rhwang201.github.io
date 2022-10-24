@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 195x9x3
+
+Press : 90x8x3
+
+Pullup  : 0x10x3
+
+Dumbbell bench  : 50x8x3
+
+Incline curl  : 25x9x3
+
+Tricep extension  : 65x12,12,10
+
+### Notes
+
+Probably bad recovery, felt like puking after squats/press
+
+Everything pretty good though. Shoulder feeling healed, bench good
