@@ -1,0 +1,32 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean bench
+---
+
+Power clean : 165x3x3
+
+Bench : 135x11x3
+
+Cable row : 70x9x3
+
+Pallof press  : 25x10x3
+
+Bulgarian split squat : 60x11x3
+
+Dumbbell press  : 25x12x3
+
+Woodchopper : 20x10x3
+
+### Notes
+
+Late-ish post
+
+Cleans really good. Warmup sets felt heavy, but working sets moved well. Good bar path, back felt tight
+
+Bench was solid, felt easier than prior time
+
+Cable rows hard, not great ROM at the ends
+
+Pallof press easy, BSS medium, dumbbell press easy, woodchopper's were fatigued from press
