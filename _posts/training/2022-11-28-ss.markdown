@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 205x5x3
+
+Press : 105x5x3
+
+Pullup  : 50x5x3
+
+Dumbbell bench  : 55x9x3
+
+Incline curl  : 25x11,11,8
+
+Face pull : 57.5x11x3
+
+### Notes
+
+Squats not bad, bar path could probably be a bit more vertical on way up. Can probably progress
+
+Press pretty hard on right shoulder. Try adding volume
+
+Pullups easy
+
+Bench hard-ish
