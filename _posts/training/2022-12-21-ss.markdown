@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: deadlift bench chinup
+---
+
+Deadlift  : 325x5x3
+
+Bench : 175x4,4,4,3
+
+Chinup  : 65x5,4,4
+
+Cable crossover : 40x12x3
+
+Cable row : 35x12x3
+
+Incline dumbbell bench  : 40x12,10,10
+
+### Notes
+
+Deads hard but good
+
+Upper body stuff all felt weaker
