@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 95x5x3
+
+Press  : 95x6x3
+
+Pullup  : 55x5x3
+
+Dumbbell bench  : 55x11x3
+
+Cable row : 100x12x3
+
+Face pull : 50x13x3
+
+Lateral raise : 7.5x13x3
+
+### Notes
+
+Back still not 100%
+
+Everything besides press pretty hard
