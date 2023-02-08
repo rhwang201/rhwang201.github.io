@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Bench : 180x5x3
+
+Chinup  : 25x10,10,6
+
+Incline dumbbell bench  : 45x10x3
+
+Chest supported row : 45x10x3
+
+Machine fly : 80x12x3
+
+### Notes
+
+Bench fine, could repeat or go for it
+
+Chins hard, everything else easy
