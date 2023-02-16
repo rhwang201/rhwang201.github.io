@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  : 135x5x3
+
+Bench : 180x5x3
+
+Cable row : 120x12x3
+
+Lateral raise : 10x11x3
+
+Chinup  : 25x9,7,5
+
+### Notes
+
+Deads fine, bench hard
