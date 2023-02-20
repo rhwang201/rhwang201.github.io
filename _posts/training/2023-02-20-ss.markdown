@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 165x5x3
+
+Press  : 115x5x3
+
+Pullup  : 65x5,5,4
+
+Cable crossover : 43x13,13,12
+
+Curls : 20x13x3
+
+### Notes
+
+Squat fine, form a bit variable
+
+Press hard, but got it
+
+Everything else fine-ish. Okay to focus on pump/hypertrophy for non-strength lifts
