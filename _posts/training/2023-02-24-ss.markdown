@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench
+---
+
+Power clean : 155x3x3
+
+Incline dumbbell bench : 45x13x3
+
+Bulgarian split squat : 80x11x3
+
+Pallof press  : 30x14x3
+
+Facepull  : 57.5x13x2
+
+Tricep extension  : 30x11x3
+
+
+### Notes
+
+Pallof and incline a bit hard, maybe from dinner
