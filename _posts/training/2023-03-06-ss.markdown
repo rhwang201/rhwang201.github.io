@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 185x5x3
+
+Dumbbell press  : 40x12x3
+
+Pullup  : 60x5x3
+
+Cable crossover : 43x13x3
+
+Curls : 20x13,12,9
+
+### Notes
+
+Squats good, thought more knees forward.
+
+Switching to seated dumbbell press for hypertrophy, up the weight
+
+Crossovers hard, can repeat
