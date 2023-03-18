@@ -1,0 +1,27 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 170x3x3
+
+Dumbbell press : 45x11x3
+
+Bulgarian split squat : 90x9x3
+
+Pallof press  : 35x11x3
+
+Facepull  : 65x10x2
+
+Tricep extension  : 30x13,13,12
+
+
+### Notes
+
+Cleans fine, can probably progress
+
+Press, BSS, facepull good
+
+Pallof kinda hard
