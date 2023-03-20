@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 205x5x3
+
+Dumbbell press  : 45x12,12,10
+
+Pullup  : 65x5x3
+
+Cable crossover : 43x14x3
+
+Curls : 20x11x3
+
+### Notes
+
+Squats meh. Mobility wasn't great to start off with, so everything kinda wonky. Repeat
+
+Short ROM on pullups again, probably repeat/reset
+
+Progress others
