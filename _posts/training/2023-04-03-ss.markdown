@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 210x5x3
+
+Dumbbell press  : 45x13x3
+
+Pullup  : 45x7,6,6
+
+Cable crossover : 47x12,12,11
+
+Curls : 20x12x3
+
+### Notes
+
+Squats fine, be careful. Probably repeat
