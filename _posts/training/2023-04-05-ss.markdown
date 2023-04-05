@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  : 255x5x3
+
+Bench : 165x10,10,9
+
+Cable row : 140x13x3
+
+Lateral raise : 10.5x14x3
+
+Hammer curls  : 20x13,13,10
+
+### Notes
+
+Most things pretty hard, lateral raise was cheating
