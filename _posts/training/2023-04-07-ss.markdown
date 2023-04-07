@@ -1,0 +1,23 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 183x3x3
+
+Incline dumbbell press : 55x8x3
+
+Bulgarian split squat : 90x12x3
+
+Pallof press  : 35x14x3
+
+Facepull  : 65x13x2
+
+Tricep extension  : 30x13,13,11
+
+
+### Notes
+
+Cleans good, incline hard
