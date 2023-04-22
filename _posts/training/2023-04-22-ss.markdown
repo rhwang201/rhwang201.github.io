@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 175x3x3
+
+Incline dumbbell press : 50x12x3
+
+Bulgarian split squat : 100x8x3
+
+Pallof press  : 42.5x8x3
+
+Facepull  : 65x15x3
+
+Tricep extension  : 35x12,12,11
+
+
+### Notes
+
+Clean form bad, rack is hard. probably reset and get form down.
+
+Lower incline, easy
+
+BSS easy
+
+Pallof hard. facepull, triceps good
