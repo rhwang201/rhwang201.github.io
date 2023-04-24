@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 220x5x3
+
+Dumbbell press  : 45x13,12,12
+
+Pullup  : 45x7,6,5
+
+Incline dumbbell press : 50x13,12,2
+
+Curls : 25x9,9,8
+
+### Notes
+
+Squats not bad, losing a bit of back angle. Lower number of reps?
+
+Incline's pretty easy, though hit elbow. Also, lower angle
