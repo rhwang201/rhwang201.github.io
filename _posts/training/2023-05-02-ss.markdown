@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  : 295x5
+
+Bench : 165x9x3
+
+Cable row : 160x11x3
+
+Lateral raise : 12.5x11x3, 7.5x12
+
+Hammer curls  : 25x10x3, 17.5x10
+
+Tricep pushdown : 30x14,14,11, 20x14
+
+### Notes
+
+Everything okay, challenging
