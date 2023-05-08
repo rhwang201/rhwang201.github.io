@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 230x3x3
+
+Dumbbell press  : 50x10x3
+
+Pullup  : 60x5x3
+
+Incline dumbbell press : 55x12,12,10
+
+Curls : 25x10,10,8
+
+Tricep pushdown : 30x14,14,12
+
+### Notes
+
+Late post, everything fine
