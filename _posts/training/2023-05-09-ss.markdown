@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  : 305x5
+
+Bench : 165x10,10,8
+
+Cable row : 160x12x3
+
+Lateral raise : 12.5x11x3
+
+Hammer curls  : 25x11,10,8
+
+Tricep extension : 30x14x3
+
+### Notes
+
+Deads fine, had to alternate midway through
+
+Dropoff on bench. Everything good
+
+More eccentric control on curls
