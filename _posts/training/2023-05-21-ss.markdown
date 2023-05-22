@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 235x3x3
+
+Dumbbell press  : 50x11,11,10
+
+Pullup  : 70x5,4,4
+
+Incline dumbbell press : 55x11x3
+
+Curls : 25x10,10,8
+
+Lateral raise : 12.5x13x3
+
+### Notes
+
+Squats meh, unstable, probably had knees forward. Drop the weight a bit?
+
+Everything else fine, with dropoff sets
