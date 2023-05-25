@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 180x2,3,3
+
+Incline dumbbell press : 55x11x3
+
+Pallof press  : 42.5x13x3
+
+Facepull  : 72.5x15x3
+
+Shoulder press  : 40x15,14,13
+
+Machine lateral raise : 50x13x3
+
+### Notes
+
+Cleans meh, rack is highly variable
+
+Repeat facepull
+
+Machine lateral raise meh, not worth
