@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 180x3,3,2
+
+Incline dumbbell press : 55x14,12,10
+
+Pallof press  : 42.5x13x3
+
+Facepull  : 72.5x15x3
+
+Shoulder press  : 40x15,15,11
+
+Lateral raise : 10x10x3
+
+Tricep pushdown : 30x14x3
+
+### Notes
+
+Cleans meh, form still bad. Starfishing. Lower the weight
+
+Everything else fine, good pumps/dropoff sets
