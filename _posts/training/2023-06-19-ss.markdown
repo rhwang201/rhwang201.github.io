@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 225x3x3
+
+Dumbbell press  : 50x12,12,9,4
+
+Pullup  : 55x5x3
+
+Incline dumbbell press : 55x12x3
+
+Reverse curl  : 40x15x3
+
+Lateral raise : 12.5x16x3
+
+### Notes
+
+Just getting over being sick. Everything fine-ish. Repeat lateral raises
