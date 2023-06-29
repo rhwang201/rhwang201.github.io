@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean : 175x3x3
+
+Incline dumbbell press : 55x13x3
+
+Pullup  :  25x7x3
+
+Lateral raise : 15x10x3
+
+Pallof press  : 42.5x14x3
+
+Facepull  : 72.5x16x3
+
+### Notes
+
+Cleans kinda rough. Back "short" and tight. Repeat. Make sure to finish the pull and rack.
+
+Everything else fine. Lateral raises felt good. Maybe try kneeling for heavy facepulls?
