@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 215x5,5,3
+
+Dumbbell press  : 50x9x3
+
+Pullup  : 70x5x3
+
+Incline dumbbell press : 60x10,10,8
+
+Incline curl  :  25x10,10,8
+
+Lateral raise : 15x14x3
+
+### Notes
+
+Bad recovery.
+
+Careful on squats, tweaked lower back on a rep. Mostly okay, but be careful
+
+Barely got pullups.
+
+Reset incline and lateral raise
