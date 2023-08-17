@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  170x3x3
+
+Press : 120x5x3
+
+Pullup  :  0x12,12,10,5
+
+Lateral raise : 17.5x12x3
+
+Pallof press  : 50x12x3
+
+Facepull  : 57.5x14x3
+
+### Notes
+
+Cleans good. Meet the bar to avoid crashing.
+
+Press good, advance
+
+Everything else fine, progress
