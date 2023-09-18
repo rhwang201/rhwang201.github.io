@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 220x5x3
+
+Dumbbell press  : 50x12,12,9
+
+Pullup  : 75x5,5,4
+
+Incline dumbbell press : 55x15x3
+
+Incline curl  :  25x11,11,8
+
+Lateral raise : 17.5x13x3
+
+### Notes
+
+Knees feel very tight on squats. Pushing it a bit, before careful. I'd reset.
+
+Everything else fine.
