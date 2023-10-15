@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 220x4, 215x4x2
+
+Dumbbell press  : 50x11,11,9
+
+Pullup  : 80x5,5,4
+
+Incline dumbbell press : 60x11x3
+
+Incline curl  :  27.5x7x3
+
+Lateral raise : 17.5x16x3
+
+### Notes
+
+Squats not great. Knee doesn't feel good. Be careful, don't try to progress that much I think, at least while cutting/in deficit
+
+Everything else fine
