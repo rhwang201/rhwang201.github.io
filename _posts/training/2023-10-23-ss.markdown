@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 215x5x3
+
+Dumbbell press  : 50x10,10,9
+
+Pullup  : 80x5x3
+
+Incline dumbbell press : 60x12,12,11
+
+Incline curl  :  27.5x8x3
+
+Lateral raise : 17.5x17x3
+
+### Notes
+
+Squats fine. Could repeat or progress slowly.
+
+Everything else pretty hard, probably calorie deficit. Repeat most things
