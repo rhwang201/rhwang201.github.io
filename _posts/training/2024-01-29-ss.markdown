@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 220x5x3
+
+Press  : 115x5x3
+
+Pullup  : 80x3x3
+
+Incline dumbbell press : 60x13x3
+
+Incline curl  :  22.5x12x3
+
+Lateral raise : 22.5x17x3
+
+### Notes
+
+Squats okay. Can progress, but this is probably your peak
+
+One more pullup strength?
+
+Reset inclines, restore ROM
