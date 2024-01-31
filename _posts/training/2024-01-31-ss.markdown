@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  :  330x5
+
+Bench : 185x5x3
+
+Cable row : 150x9x3
+
+Tricep extension  :  35x13,13,10
+
+Lateral raise  :  27.5x13x3
+
+Neck extension  :  15x18x3
+
+### Notes
+
+Everything fine
