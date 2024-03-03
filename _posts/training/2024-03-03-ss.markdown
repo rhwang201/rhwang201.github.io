@@ -1,0 +1,16 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 185x5x3
+
+Press  : 105x5x3
+
+Pullup  : 55x5x3
+
+### Notes
+
+Sick
