@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 215x5x3
+
+Press  : 120x5,5,4
+
+Pullup  : 65x5x3
+
+Incline dumbbell press : 50x14,14,12
+
+Incline curl  :  25x9x3
+
+Lateral raise : 25x16x3
+
+### Notes
+
+Post-Shasta.
+
+Squats really good actually, especially hip mobility.
+
+Make sure to get full ROM on inclines, at the top.
