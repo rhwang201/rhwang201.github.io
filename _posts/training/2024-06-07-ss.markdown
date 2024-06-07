@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 215x5x3
+
+Bench  : 175x5x3
+
+Pullup  : 55x5x3
+
+Tricep extension  :  35x12x3
+
+Incline curl  :  25x9x3
+
+Lateral raise : 20x12x3
+
+### Notes
+
+First workout back after dying.
+
+Shoulder tight from squat, but bench hard regardless. Everything else good.
+
+Try controlled lateral raises for now?
