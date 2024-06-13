@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  175x3x3
+
+Dumbbell bench  :  60x13,13,12
+
+Lat pulldown  :  140x12,12,10
+
+Tricep extension  :  40x10x3
+
+Facepull  : 80x14x3
+
+Depth jumps  :  5x3
+
+### Notes
+
+Lower facepull weight?
