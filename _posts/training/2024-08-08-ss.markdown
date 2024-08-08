@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  175x3x3
+
+Dumbbell bench  :  60x15,15,10
+
+Lat pulldown  :  140x12,12,11
+
+Facepull  : 65x18,18,16
+
+Tricep extension  :  40x12x3
+
+Hammer curl  :  20x10,10,8
+
+Depth jumps  :  5x3
+
+### Notes
+
+Cleans good. Everything else hard, good contractions
