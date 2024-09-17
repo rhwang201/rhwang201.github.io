@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: bench chinup
+---
+
+Deadlift  :  340x5
+
+Bench : 185x5,4,4
+
+Cable row : 130x12,12,9
+
+Tricep extension  :  35x13,13,10
+
+Lateral raise  :  20x20x3
+
+Neck extension  :  25x20,16,14
+
+### Notes
+
+Deads good but challenging, repeat.
+
+Bench challenging too, can keep it here for now?
+
+Focused on eccentrics for everything else, they're fine
