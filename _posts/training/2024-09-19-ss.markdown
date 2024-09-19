@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  185x3,3,2
+
+Dumbbell bench  :  60x14,14,11
+
+Lat pulldown  :  140x13,13,10
+
+Facepull  : 65x18x3
+
+Tricep extension  :  40x11x3
+
+Hammer curl  :  20x10,10,9
+
+Depth jumps  :  5x3
+
+### Notes
+
+Cleans hard. Again?
+
+Everything prety challenging, can focus more on eccentric.
