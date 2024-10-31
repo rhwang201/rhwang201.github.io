@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  175x3x3
+
+Dumbbell press  :  40x14x3
+
+Lat pulldown  :  140x12x3
+
+Facepull  : 65x15x3
+
+Tricep extension  :  40x12,11,9
+
+Hammer curl  :  17.5x10x3
+
+### Notes
+
+Clean good
