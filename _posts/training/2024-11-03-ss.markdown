@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 200x5x3
+
+Press  : 122.5x5,4,4
+
+Pullup  : 75x5,4,4
+
+Incline dumbbell press : 50x15,15,12
+
+Incline curl  :  17.5x13x3
+
+Lateral raise : 10x15x3
+
+### Notes
+
+Squats okay, though a little uneven on the ascent. Maybe reset?
+
+Press and pullup a bit heavy, especially with new equipment
+
+Incline fine, good stretch. Make sure you're getting full ROM at the top.
+
+Good stretch on curls, I like the lower weight on lateral raises.
