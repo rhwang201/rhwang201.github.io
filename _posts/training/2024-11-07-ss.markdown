@@ -1,0 +1,26 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  180x3x3
+
+Dumbbell press  :  40x15,15,12
+
+Lat pulldown  :  140x13,13,12
+
+Facepull  : 65x16x3
+
+Tricep extension  :  40x11,11,10
+
+Hammer curl  :  17.5x11,11,9
+
+### Notes
+
+Sleepy, not sleeping through the night recently.
+
+Cleans fine, low-ish rack. Repeat
+
+Everything else fine
