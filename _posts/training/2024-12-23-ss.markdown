@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 95x5x3
+
+Press  : 110x5x3
+
+Pullup  : 60x5x3
+
+Incline dumbbell press : 50x13x3
+
+Incline curl  :  15x15x3
+
+Lateral raise : 10x17x3
+
+### Notes
+
+Legs dead from skiing.
+
+Everything else solid. Make sure to get full ROM on inclines.
