@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Power clean  :  175x3x3
+
+Dumbbell press  :  40x13x3
+
+Pullup  :  25x9,9,7
+
+Facepull  : 65x17x3
+
+Tricep extension  :  40x10x3
+
+Hammer curl  :  15x14,14,11
+
+### Notes
+
+Everything pretty hard. Repeat cleans. Repeat press, more control.
