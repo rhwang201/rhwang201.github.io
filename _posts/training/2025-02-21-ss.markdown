@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Squat  :  175x5x3
+
+Dumbbell press  :  40x15,15,11
+
+Pullup  :  25x9,9,7
+
+Facepull  : 65x18x3
+
+Tricep extension  :  40x11,11,8
+
+Hammer curl  :  15x15,15,12
+
+### Notes
+
+Pause squats, pretty good. Tried to get full knee flexion.
+
+Fatigued for everything else.
