@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 205x5x3
+
+Press  : 120x5,5,4
+
+Pullup  : 75x5,5,4
+
+Incline bench  :  50x15x3
+
+Incline curl  :  15x15x3
+
+Lateral raise : 10x20x3
+
+### Notes
+
+Squats hard again, same with press and pullups. ROM barely there on pullups
