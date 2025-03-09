@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 200x5x3
+
+Press  : 120x5,5,4
+
+Pullup  : 70x5x3
+
+Incline bench  :  50x15,15,10
+
+Incline curl  :  15x15x3
+
+Lateral raise : 10x20x3
+
+### Notes
+
+Squats fine, press and pullups hard. Careful with left shoulder during incline?
