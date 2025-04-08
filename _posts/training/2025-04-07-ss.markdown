@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 195x5x3
+
+Press  : 122.5x5,5,4
+
+Pullup  : 70x5x3
+
+Incline bench  :  50x16,16,14
+
+Incline curl  :  15x16,16,12
+
+Lateral raise  :  10x22x3
+
+### Notes
+
+Late post. Looks like wasn't feeling strong, reset squats
