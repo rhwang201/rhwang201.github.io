@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Squat  :  185x5x3
+
+Dumbbell press  :  40x16,16,13
+
+Pullup  :  25x9,9,8
+
+Facepull  : 65x18x3
+
+Tricep extension  :  40x12,12,9
+
+Hammer curl  :  15x17x3
+
+### Notes
+
+Regressed from the week prior.
+
+Squats not bad. Thought about "proud chest"
