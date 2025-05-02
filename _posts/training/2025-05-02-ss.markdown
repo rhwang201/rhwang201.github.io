@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Squat  :  185x5x3
+
+Dumbbell press  :  40x15x3
+
+Pullup  :  25x9,9,8
+
+Facepull  : 65x18x3
+
+Tricep extension  :  40x12,12,9
+
+Hammer curl  :  15x17,17,12
+
+### Notes
+
+Everything not bad. Tri's and curls hard, maybe slight reset
