@@ -1,0 +1,22 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: clean
+---
+
+Squat  :  185x3x3
+
+Dumbbell press  :  40x13x3
+
+Pullup  :  25x8x3
+
+Facepull  : 65x17x3
+
+Tricep extension  :  45x8x3
+
+Hammer curl  :  15x15x3
+
+### Notes
+
+Everything fine. Maybe add more forearm work for the aesthetics?
