@@ -1,0 +1,20 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Press  : 115x5x3
+
+Pullup  : 65x5x3
+
+Incline bench  :  50x15x3
+
+Incline curl  :  15x15x3
+
+Lateral raise  :  15x21x3
+
+### Notes
+
+Skipped squats. Still recovering from Shasta, mostly lower back.
