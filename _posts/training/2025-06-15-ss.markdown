@@ -1,0 +1,24 @@
+---
+layout: post
+title:  'Training'
+categories: training
+tags: squat press
+---
+
+Squat : 190x5x3
+
+Press  : 122.5x5,4,4
+
+Pullup  : 70x5x3
+
+Incline bench  :  50x15x3
+
+Incline curl  :  15x16x3
+
+Lateral raise  :  15x22x3
+
+### Notes
+
+Squats not bad, press heavy, pullups good.
+
+Progress bench, curls
